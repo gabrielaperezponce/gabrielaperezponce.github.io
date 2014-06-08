@@ -12,54 +12,62 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
     </ol> 
     <div class="carousel-inner"> 
       <div class="item active imagen-carousel"> <!-- 1er slide -->
-        <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/noticia-categoria-2.jpg" title="Noticia Destacada"> 
-        <div class='pie-de-foto'> 
-          <p class='centrado'><i class="icn icn-noticias icn-lg"></i> e[ad] presentó libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”</p> 
-        </div> 
-        <div class='wrap-carousel'> 
-          <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-            <h1><i class="icn icn-noticias icn-md"></i> Los Ojos del Gato & El Retoque Inacabado</h1> 
-            <p>El jueves 8 de mayo se llevó a cabo en la Escuela de Arquitectura y Diseño la inauguración de la exposición de grabados del poeta panameño Edison Simons, y el lanzamiento del libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”, del escritor brasileño Gerardo Mello Mourão.</p><span class='derecha'>Francesca Cambiaso</span>
-          </div>
-        </div> 
+        <a class='enlace-carousel' href='#'>
+          <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/noticia-categoria-2.jpg" title="Noticia Destacada"> 
+          <div class='pie-de-foto'> 
+            <p class='centrado'><i class="icn icn-noticias icn-lg"></i> e[ad] presentó libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”</p> 
+          </div> 
+          <div class='wrap-carousel'> 
+            <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
+              <h1><i class="icn icn-noticias icn-md"></i> Los Ojos del Gato & El Retoque Inacabado</h1> 
+              <p>El jueves 8 de mayo se llevó a cabo en la Escuela de Arquitectura y Diseño la inauguración de la exposición de grabados del poeta panameño Edison Simons, y el lanzamiento del libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”, del escritor brasileño Gerardo Mello Mourão.</p><span class='derecha'>Francesca Cambiaso</span>
+            </div>
+          </div> 
+        </a>
       </div>
       <div class="item imagen-carousel"> <!-- 2do slide -->
-        <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/travesia-portada.jpg" title="Travesía Destadada"> 
-        <div class='pie-de-foto'> 
-          <p class='centrado'><i class="icn icn-travesia icn-lg"></i> Travesía Tarabuco  - Bolivia, 2013</p> 
-        </div> 
-        <div class='wrap-carousel'> 
-          <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-            <h1><i class="icn icn-travesia icn-md"></i> Travesía Tarabuco  - Bolivia, 2013 </h1>
-            <p>Las travesías son viajes poéticos por América que realiza anualmente la e[ad] Escuela de Arquitectura y Diseño PUCV a partir del año 1984. Estos viajes son integrados por los alumnos y profesores de Arquitectura, Diseño Gráfico y Diseño Industrial. Este sitio corresponde al registro de dichos viajes por el continente e invita a todos quienes han participado a colaborar en esta bitácora colectiva.</p><span class='derecha'>Sylvia Arriagada</span> 
-          </div>
-        </div> 
+        <a class='enlace-carousel' href='#'>
+          <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/travesia-portada.jpg" title="Travesía Destadada"> 
+          <div class='pie-de-foto'> 
+            <p class='centrado'><i class="icn icn-travesia icn-lg"></i> Travesía Tarabuco  - Bolivia, 2013</p> 
+          </div> 
+          <div class='wrap-carousel'> 
+            <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
+              <h1><i class="icn icn-travesia icn-md"></i> Travesía Tarabuco  - Bolivia, 2013 </h1>
+              <p>Las travesías son viajes poéticos por América que realiza anualmente la e[ad] Escuela de Arquitectura y Diseño PUCV a partir del año 1984. Estos viajes son integrados por los alumnos y profesores de Arquitectura, Diseño Gráfico y Diseño Industrial. Este sitio corresponde al registro de dichos viajes por el continente e invita a todos quienes han participado a colaborar en esta bitácora colectiva.</p><span class='derecha'>Sylvia Arriagada</span> 
+            </div>
+          </div> 
+        </a>
       </div>
       <div class="item imagen-carousel"> <!-- 3er slide -->
-        <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/historia.jpg" title="Historia de la Escuela"> 
-        <div class='pie-de-foto'> 
-          <p class='centrado'><i class="icn icn-acto icn-lg"></i> Aula Neumática ( Taller Ivelic, Baixas, Méndez, Cruz), 1 Enero 1984</p>  
-        </div> 
-        <div class='wrap-carousel'> 
-          <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-            <h1><i class="icn icn-travesia icn-md"></i> Aula Neumática, 1984</h1> 
-            <p>"Un apunte es entonces intervenir para dar curso a la voz, al parlamento, sin ser visto, como el apuntador del teatro, que de espaldas y oculto a los espectadores dice a los actores lo que hay que decir."</p> <span class='derecha'>Alberto Cruz</span> 
-          </div>
-        </div> 
+        <a class='enlace-carousel' href='#'>
+          <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/historia.jpg" title="Historia de la Escuela"> 
+          <div class='pie-de-foto'> 
+            <p class='centrado'><i class="icn icn-acto icn-lg"></i> Aula Neumática ( Taller Ivelic, Baixas, Méndez, Cruz), 1 Enero 1984</p>  
+          </div> 
+          <div class='wrap-carousel'> 
+            <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
+              <h1><i class="icn icn-travesia icn-md"></i> Aula Neumática, 1984</h1> 
+              <p>"Un apunte es entonces intervenir para dar curso a la voz, al parlamento, sin ser visto, como el apuntador del teatro, que de espaldas y oculto a los espectadores dice a los actores lo que hay que decir."</p> <span class='derecha'>Alberto Cruz</span> 
+            </div>
+          </div> 
+        </a>
       </div>
       <div class="item imagen-carousel"> <!-- 4to slide -->
-        <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/croquis.jpg" title="Observación de la semana"> 
-        <div class='pie-de-foto'> 
-          <p class='centrado'><i class="icn icn-ojo icn-lg"></i> Observación de la semana realizada por el profesor David Jolly</p> 
-        </div> 
-        <div class='wrap-carousel'> 
-          <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-            <h1><i class="icn icn-ojo icn-md"></i> Observación "La Alcoba"</h1> 
-            <p>La Alcoba en la Ciudad Abierta.<br>
-            Se trata de un espacio mínimo para una familia inicial, su superficie de suelos es de treinta y seis metros cuadrados, (387,5 pies cuadrados), los que se aumentan con unos muros contenedores que reciben a la mayoría de los muebles.<br>
-            Lo edificado construye el exterior levantándose, reconstruye la arena como un libre paso sin interrumpir la extensión.</p> <span class='derecha'>David Jolly</span> 
-          </div>
-        </div> 
+        <a class='enlace-carousel' href='#'>
+          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/croquis.jpg" title="Observación de la semana"> 
+          <div class='pie-de-foto'> 
+            <p class='centrado'><i class="icn icn-ojo icn-lg"></i> Observación de la semana realizada por el profesor David Jolly</p> 
+          </div> 
+          <div class='wrap-carousel'> 
+            <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
+              <h1><i class="icn icn-ojo icn-md"></i> Observación "La Alcoba"</h1> 
+              <p>La Alcoba en la Ciudad Abierta.<br>
+              Se trata de un espacio mínimo para una familia inicial, su superficie de suelos es de treinta y seis metros cuadrados, (387,5 pies cuadrados), los que se aumentan con unos muros contenedores que reciben a la mayoría de los muebles.<br>
+              Lo edificado construye el exterior levantándose, reconstruye la arena como un libre paso sin interrumpir la extensión.</p> <span class='derecha'>David Jolly</span> 
+            </div>
+          </div> 
+        </a>
       </div>    
     </div>
   </div>
@@ -90,7 +98,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
     <div class='fila'><!-- sección eventos superior--> 
     <!-- nombre de seccion -->
       <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12 alto-sm'> <!-- evento 1 -->
-        <a href='#' class='bloque-enlace'>
+        <a href='#' class='enlace-evento'>
           <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='pagina sm evento'>
               <div class='dato-evento'> 
@@ -102,7 +110,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </a>
       </div> <!-- fin evento  1 -->
       <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12 alto-sm'> <!-- evento  2 -->
-        <a href='#' class='bloque-enlace'>
+        <a href='#' class='enlace-evento'>
           <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='pagina sm evento'>
               <div class='dato-evento'> 
@@ -114,7 +122,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </a>
       </div><!-- fin evento  2 -->
       <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12 alto-sm'> <!-- evento 3 -->
-        <a href='#' class='bloque-enlace'>
+        <a href='#' class='enlace-evento'>
           <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='pagina sm evento'>
               <div class='dato-evento'> 
@@ -126,7 +134,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </a>
       </div><!-- fin evento  3 -->
       <div class='col-lg-3 oculto-md col-sm-6 col-xs-12 alto-sm'> <!-- evento 3 -->
-        <a href='#' class='bloque-enlace'>
+        <a href='#' class='enlace-evento'>
           <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='pagina sm evento'>
               <div class='dato-evento'> 
@@ -215,7 +223,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             <p>El Comité de Túneles y Espacios Subterráneos de Chile (CTES) invita a los estudiantes de Arquitectura a participar Área Industrial/Arquitectónica Diseño, proyección, construcción y montaje. Domo travesía fue el primer proyecto[...]</p>
         </a>
       </div><!-- fin noticia 5 -->
-      <div class='col-lg-3 col-md-4 oculto-sm col-xs-12 alto-md'> <!-- noticia 6 -->
+      <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12 alto-md'> <!-- noticia 6 -->
         <a href='#' class='enlace-noticia'>
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
@@ -229,7 +237,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             <p>Después del incendio que afecto a los cerros de Valparaíso, un lugar de encuentro, de aprendizaje. La convocatoria es abierta a todos quienes deseen participar. y con el equipamiento que la e[ad] posee para las travesías [...]</p>
         </a>
       </div><!-- fin noticia 7 -->
-      <div class='col-lg-3 oculto-md oculto-sm col-xs-12 alto-md'> <!-- noticia 7 -->
+      <div class='col-lg-3 oculto-md col-sm-6 col-xs-12 alto-md'> <!-- noticia 7 -->
         <a href='#' class='enlace-noticia'>
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
@@ -369,8 +377,8 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
             </div>
             <div class='pagina md carrera'>
-              <a href='#'><h6>arquitectura</h6></a>
-              <h4 class='blanco'>Arquitectura 5to Año décima etapa: Utilización de tecnologías en Moldajes Flexibles</h4>
+              <a href='#'><h6 class='categoria-oficio'>arquitectura</h6></a>
+              <h6 class='titulo'>Arquitectura 5to Año décima etapa: Utilización de tecnologías en Moldajes Flexibles</h6>
               <aside class='blanco entry-details'>Publicado el 11 de marzo, 2014</aside>
               <p class='blanco'>Taller de 5to año 10ª etapa trabajará elementos lineales con la tecnología del Hormigón en la aplicación de Moldajes Flexibles; tecnología que se ha venido desarrollando hace algunos años en la Ciudad Abierta. una memoria de éste; un espacio socio-cultural, un lugar de encuentro, de aprendizaje. La convocatoria es abierta a todos quienes deseen participar. </p>
             </div>
@@ -383,12 +391,12 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             </div>
             <!-- seguir leyendo -->
             <a href='#'><p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p></a>
-            <div class='seguir-leyendo-cuadro'>
+            <a class='#'><div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>
+            </div></a>
             <div class='pagina md carrera'>
-              <a href='#'><h6>diseño gráfico</h6></a>
-              <h4 class='blanco'>e[ad] presentó libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”</h4>
+              <a href='#'><h6 class='categoria-oficio'>diseño gráfico</h6></a>
+              <h6 class='titulo'>e[ad] presentó libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”</h6>
               <aside class='blanco entry-details'>Publicado el 9 de mayo, 2014</aside>
               <p class='blanco'>El jueves 8 de mayo se llevó a cabo en la Escuela de Arquitectura y Diseño la inauguración de la exposición de grabados del poeta panameño Edison Simons, y el lanzamiento del libro “Los Ojos del Gato & El Retoque Inacabado -Memorial de Edison Simons”, del escritor brasileño Gerardo Mello Mourão, quien narra la vida del poeta entrelazada con el fundamento poético de la Escuela. </p>
             </div>
@@ -401,12 +409,12 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             </div>
             <!-- seguir leyendo -->
             <a href='#'><p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p></a>
-            <a><div class='seguir-leyendo-cuadro'></a>
+            <a class='#'><div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>
+            </div></a>
             <div class='pagina md carrera'>
-              <a href='#'><h6>diseño industrial</h6></a>
-              <h4 class='blanco'>Taller de 4º año de Diseño Industrial participa en exposición del escultor chileno Patrick Steeger</h4>
+              <a href='#'><h6 class='categoria-oficio'>diseño industrial</h6></a>
+              <h6 class='titulo'>Taller de 4º año de Diseño Industrial participa en exposición del escultor chileno Patrick Steeger</h6>
               <aside class='blanco entry-details'>Publicado el 25 de marzo, 2014</aside>
               <p class='blanco'>Este jueves 27 de marzo a las 19:30 en el Museo de Arte Contemporáneo, en Santiago, se inaugurará la exposición “Uso y Abuso”, del artista Patrick Steeger, en la que participaron los alumnos del taller de 4º año de Diseño Industrial. La exposición estará abierta a público desde el 28 de marzo hasta el 15 de junio.  </p>
             </div>
@@ -414,7 +422,7 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </div>
       </div>
     </div>
-  </div>
+  </div> <!-- fin wrap ancho total-->
   <div class='wrap'>
     <div class='seccion'>
       <h3>
@@ -425,9 +433,6 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
       <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
         <div class='categoria'> <!-- noticia de categoria 4  -->
           <a href='#' class='bloque-enlace categoria'>
-              <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-              </div>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <h6>magíster arquitectura y diseño</h6>
               <h5 class='rojo-claro'>Concursos de Innovación y Emprendimiento 2014</h5>
@@ -437,35 +442,26 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </div> <!-- fin noticia de categoria 4 -->
         <div class='categoria'> <!-- noticia de categoria 5  -->
           <a href='#' class='bloque-enlace categoria'>
-              <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-              </div>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <h6>taller de amereida</h6>
               <h5 class='rojo-claro'>Entrega Taller de Amereida Trim. I 2014</h5>
-              <p class='datos-publicacion'>Publicado el 14 de abril, 2014</p>
+              <aside class='entry-details'>Publicado el 14 de abril, 2014</aside>
               <p>La Dirección de Innovación y Emprendimiento invita a la comunidad PUCV a participar en los Concursos de Innovación y Emprendimiento 2014. En este certamen pueden participar alumnos de pregrado y posgrado, académicos Hay un control permanente. Viene Sanidad y controla cómo estamos operando, qué hay de menú, cómo han operado las cosas, cómo está funcionando el baño, todo el tema de la higiene… No nos recomiendan mucho tener cosas frescas, por la manipulación de los alimentos, pero tomamos todas las medidas de precaución</p>
           </a>
         </div> <!-- fin noticia de categoria 5 -->
-      </div>
+      </div>  <!-- fin columna 1 -->
       <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>  <!-- noticia de categoria 7 -->
         <div class='categoria'>
           <a href='#' class='bloque-enlace categoria'>
-              <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-              </div>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <h6>archivo histórico josé vial armstrong</h6>
               <h5 class='rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</h5>
-              <p class='datos-publicacion'>Publicado el 2 de enero, 2014</p>
+              <aside class='entry-details'>Publicado el 2 de enero, 2014</aside>
               <p>En el mes de diciembre, el Consejo Nacional de la Cultura y las Artes dio a conocer los resultados de las postulaciones a los Fondos de Cultura 2014La jornada parte a las 9:00 de la mañana, y termina a las 16:00, cuando ya tenemos la cocina lavada y dispuesta para el otro día. Es una jornada larga. Lo más largo es la preparación y cuando llega mucha gente.  Se ha ido armando una red de contactos, de personas que ayudan </p>
           </a>
         </div>  <!-- fin noticia de categoria 7 -->
         <div class='categoria'>  <!-- noticia de categoria 9 -->
           <a href='#' class='bloque-enlace categoria'>
-              <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-              </div>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <h6>bolsa de trabajo</h6>
               <h5 class='rojo-claro'>Ayudantes de Biblioteca</h5>
@@ -475,13 +471,10 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
             </p>
           </a>
         </div>  <!-- fin noticia de categoria 9 -->
-      </div>
+      </div>  <!-- fin columna 2 -->
       <div class='col-lg-4 oculto-md oculto-sm oculto-xs'>
         <div class='categoria'> <!-- noticia de categoria 4  -->
           <a href='#' class='bloque-enlace categoria'>
-            <div class='seguir-leyendo-cuadro'>
-            <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>
             <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
             <h6>magíster arquitectura y diseño</h6>
             <h5 class='rojo-claro'>Concursos de Innovación y Emprendimiento 2014</h5>
@@ -491,17 +484,14 @@ title: e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica
         </div> <!-- fin noticia de categoria 4 -->
         <div class='categoria'> <!-- noticia de categoria 5  -->
           <a href='#' class='bloque-enlace categoria'>
-              <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
-              </div>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <h6>taller de amereida</h6>
               <h5 class='rojo-claro'>Entrega Taller de Amereida Trim. I 2014</h5>
-              <p class='datos-publicacion'>Publicado el 14 de abril, 2014</p>
+              <aside class='entry-details'>Publicado el 14 de abril, 2014</aside>
               <p>La Dirección de Innovación y Emprendimiento invita a la comunidad PUCV a participar en los Concursos de Innovación y Emprendimiento 2014. En este certamen pueden participar alumnos de pregrado y posgrado, académicos ay un control permanente. Viene Sanidad y controla cómo estamos operando, qué hay de menú, cómo han operado las cosas, cómo está funcionando el baño, todo el tema de la higiene… No nos recomiendan mucho tener cosas frescas, por la manipulación de los alimentos, pero tomamos todas las medidas de precaución, con alcohol en las manos, guantes… </p>
           </a>
         </div> <!-- fin noticia de categoria 5 -->
-      </div>
+      </div> <!-- fin columna 3 -->
     </div>
   </div> <!-- wrap -->
-</div> <!-- fin wrap ancho total-->
+</div>
