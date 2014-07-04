@@ -2,13 +2,6 @@
 layout: solicitudes_archivo
 title: Archivo Histórico JVA
 ---
-<div class='fondo-blanco'>
-          <div class='fila'>
-            <div class='col-lg-12 col-md-12 col-xs-12'>
-              <h1></h2>
-            </div>
-            <div class='col-lg-16 col-md-16'>
-                  <!-- Carousel -->
 <div class='contenedor-sin-relleno'>
   <div class='fila'>
     <div class="col-lg-12 oculto-xs">
