@@ -33,4 +33,5 @@ title: Gamma Maquetas
 <ul>
   <li><a class='mama' href="pags/publicacion">Post: Publicación <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
   <li><a class='mama' href="pags/evento">Post: Evento <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
+  <li><a class='mama' href="pags/noticia_archivo">Noticia Archivo <i class="icn icn-visto icn-md"></i></a></li>
 </ul>
