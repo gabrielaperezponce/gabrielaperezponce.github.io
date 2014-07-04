@@ -79,7 +79,7 @@ title: Archivo Histórico JVA
 </div>
 <!-- Inicio noticias varias -->
 </div>  <!-- fin pag ancho total-->
-            </div> 
-          </div>
-        </div>    
-        </div>
+</div> 
+</div>
+</div>    
+</div>
