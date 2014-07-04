@@ -23,7 +23,8 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/meta-busqueda.html">Resultados meta-búsqueda <i class="icn icn-vineta icn-md"></i></a><li>
   <li><a class='mama' href="pags/categoria-catalogo">Categorías Catálogo<i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/album-catalogo">Álbum <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/resena-ahjva">Reseña Archivo <i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/resena-ahjva">Reseña - Nuestra Labor <i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/resena-historia">Reseña Historia <i class="icn icn-visto icn-md"></i></a><li>
 </ul>
 <h3 class='abuela blanco'>Entradas</h3>
 <ul>
