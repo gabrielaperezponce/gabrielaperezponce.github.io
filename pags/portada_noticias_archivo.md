@@ -1,8 +1,7 @@
 ---
-layout: portada noticias archivo
+layout: portada_noticias_archivo
 title: Archivo Histórico JVA
 ---
-
 <div class='contenedor-sin-relleno'>
 <div class='fila'>
 <div class='col-lg-12 oculto-xs'>
@@ -42,7 +41,6 @@ title: Archivo Histórico JVA
         </div>
         <div class='recuadro-detalle'>
             <div class='contenedor-texto'>
-
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus erat sed magna eleifend volutpat. Quisque venenatis mollis felis id ornare. Sed facilisis eleifend erat eget aliquet [...]</p>
             </div>
         </div>
