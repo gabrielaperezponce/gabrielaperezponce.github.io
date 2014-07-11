@@ -36,7 +36,7 @@ title: Archivo Histórico JVA
     <div class='fila'>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'> 
          <div class='prev-imagen lg'>
-         <a><img class='ancho-maximo'src="/img/img-archivo/actividad-cat-audio.jpg">            
+         <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/actividad-cat-audio.jpg">            
           <span class="text-content">
               <span><i class="icn icn-parlante-l icn-xs blanco"></i></br>
                29 audios
@@ -50,7 +50,7 @@ title: Archivo Histórico JVA
     </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'> 
-          <a><img class='ancho-maximo' src="/img/img-archivo/examenes-cat.jpg">            
+          <a><img class='ancho-maximo' src="{{ site.baseurl }}/img/img-archivo/examenes-cat.jpg">            
             <span class="text-content">
               <span><i class="icn icn-parlante-l icn-xs blanco"></i></br>
                20 audios
@@ -64,7 +64,7 @@ title: Archivo Histórico JVA
       </div> 
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="/img/img-archivo/amereida-cat-audio.jpg">            
+          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/amereida-cat-audio.jpg">            
             <span class="text-content">
               <span><i class="icn icn-parlante-l icn-xs blanco"></i></br>
                226 audios
@@ -78,7 +78,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="/img/img-archivo/magistral-cat.jpg">            
+          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/magistral-cat.jpg">            
             <span class="text-content">
               <span><i class="icn icn-parlante-l icn-xs blanco"></i></br>
                61 audios
