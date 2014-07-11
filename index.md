@@ -13,6 +13,7 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/home-archivo">Home archivo histórico <i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/portada-catalogo">Cátalogos fotográficos<i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/portada_noticias_archivo">Portada Noticias Archivo<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/portada-archivo-palabra">Portada Catálogo Archivo Palabra<i class="icn icn-visto icn-md"></i></a><li>
 </ul>
 <h3 class='abuela blanco'>Páginas</h3>
 <ul>
