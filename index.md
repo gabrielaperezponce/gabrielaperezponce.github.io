@@ -29,6 +29,7 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/resena-dependencias">Dependencias del archivo <i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/solicitudes_archivo">Solicitudes <i class="icn icn-visto icn-md"></i></a><li>  
   <li><a class='mama' href="pags/noticia_archivo"> Noticia Archivo <i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/categoria-archivo-palabra"> Categoria Taller Amereida - Archivo de la Palabra  <i class="icn icn-visto icn-md"></i></a><li>
 </ul>
 <h3 class='abuela blanco'>Entradas</h3>
 <ul>
