@@ -14,6 +14,8 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/portada-catalogo">Cátalogos fotográficos<i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/portada_noticias_archivo">Portada Noticias Archivo<i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/portada-archivo-palabra">Portada Catálogo Archivo Palabra<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/portada-catalogo-videos">Portada Catálogo Audiovisual<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/portada-ediciones">Portada Ediciones e[ad]<i class="icn icn-visto icn-md"></i></a><li>
 </ul>
 <h3 class='abuela blanco'>Páginas</h3>
 <ul>
@@ -23,7 +25,7 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/listado-cuerpo-docente">Listado - Cuerpo Docente <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
   <li><a class='mama' href="pags/resultado-busqueda">Resultados de búsqueda <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
   <li><a class='mama' href="pags/meta-busqueda.html">Resultados meta-búsqueda <i class="icn icn-vineta icn-md"></i></a><li>
-  <li><a class='mama' href="pags/categoria-catalogo">Categorías Catálogo<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/categoria-catalogo">Categorías Catálogo fotográfico<i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/album-catalogo">Álbum <i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/resena-ahjva">Reseña - Nuestra Labor <i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/resena-historia">Reseña Historia <i class="icn icn-visto icn-md"></i></a><li>
@@ -31,6 +33,9 @@ title: Gamma Maquetas
   <li><a class='mama' href="pags/solicitudes_archivo">Solicitudes <i class="icn icn-visto icn-md"></i></a><li>  
   <li><a class='mama' href="pags/noticia_archivo"> Noticia Archivo <i class="icn icn-visto icn-md"></i></a><li>
   <li><a class='mama' href="pags/categoria-archivo-palabra"> Categoria Taller Amereida - Archivo de la Palabra  <i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/categoria-video"> Categoria Audiovisual<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/categoria-ediciones"> Categoria Ediciones e[ad]<i class="icn icn-visto icn-md"></i></a><li>
+  <li><a class='mama' href="pags/vista-edicion"> Visualización y lectura edición <i class="icn icn-visto icn-md"></i></a><li>
 </ul>
 <h3 class='abuela blanco'>Entradas</h3>
 <ul>
