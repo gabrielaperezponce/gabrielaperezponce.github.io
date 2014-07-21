@@ -1,5 +1,5 @@
 ---
-layout: portada-vista-edicion
+layout: vista-edicion
 title: Archivo Histórico JVA
 ---
 <div class='fondo-blanco'>
