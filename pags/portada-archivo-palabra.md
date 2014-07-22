@@ -1,5 +1,5 @@
 ---
-layout: portada-catalogo-archivo-palabra
+layout: portada-archivo-palabra
 title: Archivo Histórico JVA
 ---
 <div class='sombra fondo-blanco'>
