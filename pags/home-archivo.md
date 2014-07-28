@@ -222,7 +222,7 @@ title: Archivo Histórico JVA
       <div class='fondo-blanco'><!-- inicio publicaciones recientes -->
         <div class='wrap'>
           <div class='seccion'>
-            <a href='#'><h3><i class="icn icn-etiqueta icn-md"></i> Publicaciones recientes</h3></a>
+            <h3><i class="icn icn-etiqueta icn-md"></i> Publicaciones recientes</h3>
           </div>
           <div class='fila'> <!-- Noticia destacada -->
             <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
