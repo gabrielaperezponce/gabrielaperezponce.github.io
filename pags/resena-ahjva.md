@@ -99,7 +99,7 @@ title: Archivo Histórico JVA
                                               </br>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> jaime.reyes.gil@ead.pucv.cl</h6>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='#'>Perfil en Casiopea</a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Jaime_Reyes'>Perfil en Casiopea</a></h6>
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -115,7 +115,7 @@ title: Archivo Histórico JVA
                                               </br>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> a.espinoza@ead.pucv.cl</h6>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='#'>Perfil en Casiopea</a></h6>  
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Adolfo_Espinoza'>Perfil en Casiopea</a></h6>  
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -131,7 +131,7 @@ title: Archivo Histórico JVA
                                               </br>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> ivan.ivelic@arquitecturaucv.cl</h6>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='#'>Perfil en Casiopea </a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Iv%C3%A1n_Ivelic'>Perfil en Casiopea </a></h6>
                                             </div>
                                         </div>
                                     </div>
