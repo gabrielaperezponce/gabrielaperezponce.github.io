@@ -25,7 +25,7 @@ title: Archivo Histórico JVA
     <div class='fila'>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'> 
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/actos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br> 24 videos</p></div></a> 
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/actos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br> 24 videos</p></div></a> 
           <div class="franja-categoria fondo-rojo-claro">
             <p>Actos poéticos</p>
           </div>
@@ -33,7 +33,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo' src="{{ site.baseurl }}/img/img-archivo/ciudadabierta-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>61 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo' src="{{ site.baseurl }}/img/img-archivo/ciudadabierta-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>61 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Ciudad Abierta</p>
           </div>
@@ -41,7 +41,7 @@ title: Archivo Histórico JVA
       </div> 
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/clase-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>18 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/clase-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>18 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Clases, actividades</p>
           </div>
@@ -49,7 +49,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/magister-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>27 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/magister-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>27 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Magíster Naútico y Marítimo</p>
           </div>
@@ -59,7 +59,7 @@ title: Archivo Histórico JVA
     <div class='fila'>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/amereida-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>67 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/amereida-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>67 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Taller de Amereida</p>
           </div>
@@ -67,7 +67,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/torneos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>5 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/torneos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>5 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Torneos, Cultura del Cuerpo</p>
           </div>
@@ -75,7 +75,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
         <div class='prev-imagen lg'>
-          <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/travesia-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>31 videos</p></div></a>
+          <a href='{{ site.baseurl }}/pags/categoria-video/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/travesia-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-youtube icn-lg blanco"></i></br>31 videos</p></div></a>
           <div class="franja-categoria fondo-rojo-claro">
             <p>Travesías</p>
           </div>
