@@ -8,7 +8,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class="col-lg-12 oculto-xs">
           <ul id="breadcrumb">
-            <li><a href="#"><i class="icn icn-hogar icn-md"></i></a></li>
+            <li><a href="#"><i class="icn icn-hogar-l icn-md"></i></a></li>
             <li><a href="#"> Catálogos </a></li>
             <li><a href="#"> Colección fotográfica </a></li>
           </ul>
