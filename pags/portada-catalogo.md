@@ -24,7 +24,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/obras-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>8 colecciones</p></div></a>
+            <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/obras-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>8 colecciones</p></div></a>
             <div class="franja-categoria fondo-rojo-claro">
               <p>Obras</p>
             </div>
@@ -32,7 +32,7 @@ title: Archivo Histórico JVA
         </div>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/actividad-cat-2.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>6 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/actividad-cat-2.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>6 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Actividades</p>
             </div>
@@ -40,7 +40,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/ciudad-abierta-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>9 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/ciudad-abierta-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>9 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Ciudad Abierta</p>
             </div>
@@ -48,7 +48,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/farandula.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>7 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/farandula.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>7 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Vida Universitaria</p>
             </div>
@@ -58,7 +58,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/catastros-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>3 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/catastros-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>3 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Catastros</p>
             </div>
@@ -66,7 +66,7 @@ title: Archivo Histórico JVA
         </div>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/estudios-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>9 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/estudios-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>9 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Estudios</p>
             </div>
@@ -74,7 +74,7 @@ title: Archivo Histórico JVA
         </div>  
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/teoricos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>3 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/teoricos-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>3 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Teóricos</p>
             </div>
@@ -92,7 +92,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/madlab-cat.jpeg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>2 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/madlab-cat.jpeg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>2 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Diseño Industrial</p>
             </div>
@@ -100,7 +100,7 @@ title: Archivo Histórico JVA
         </div>   
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/arquitectura-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>5 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/arquitectura-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>5 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Arquitectura</p>
             </div>
@@ -108,7 +108,7 @@ title: Archivo Histórico JVA
         </div>    
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/travesia-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>12 colecciones</p></div></a> 
+             <a href='{{ site.baseurl }}/pags/categoria-catalogo/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/travesia-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-imagen icn-lg blanco"></i></br>12 colecciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Travesías</p>
             </div>
