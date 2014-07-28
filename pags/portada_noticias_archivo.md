@@ -2,6 +2,9 @@
 layout: portada_noticias_archivo
 title: Archivo Histórico JVA
 ---
+<div class='wrap'>
+   <h1 class="entry-title especifico"><i class="icn icn-noticias icn-sm"></i> Noticias</h1>
+</div>
 <div class='contenedor-sin-relleno'>
   <div class='fila'>
     <div class='col-lg-12 oculto-xs'>
@@ -12,9 +15,6 @@ title: Archivo Histórico JVA
       </ul>
     </div>
   </div>
-</div>
-<div class='wrap'>
-   <h1 class="entry-title especifico"><i class="icn icn-noticias icn-sm"></i> Noticias</h1>
 </div>
 <div class='fondo-blanco'>
   <div class='wrap'>
