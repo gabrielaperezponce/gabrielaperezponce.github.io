@@ -2,21 +2,18 @@
 layout: portada-catalogo
 title: Archivo Histórico JVA
 ---
-<div class='fondo-blanco'>
-  <div class='sombra fondo-blanco'>
-    <div class='contenedor-sin-relleno'>
-      <div class='fila'>
-        <div class="col-lg-12 oculto-xs">
-          <ul id="breadcrumb">
-            <li><a href="#"><i class="icn icn-hogar-l icn-md"></i></a></li>
-            <li><a href="#"> Catálogos </a></li>
-            <li><a href="#"> Colección fotográfica </a></li>
-          </ul>
-        </div>
-      </div>
+<div class='contenedor-sin-relleno'>
+  <div class='fila'>
+    <div class='col-lg-12 oculto-xs'>
+      <ul id='breadcrumb'>
+        <li><a href='pags/home'><i class="icn icn-hogar-l icn-md"></i></a></li>
+        <li><a href='pags/sobre_el_archivo'> Catálogos</a></li>
+        <li><a href='pags/resena_historia'> Colección Fotográfica</a></li>
+      </ul>
     </div>
   </div>
-  <div class='fondo-blanco'>
+</div>
+<div class='fondo-blanco'>
     <div class='wrap'>          
       <div class='fila'>
         <div class='col-lg-6 col-md-8 col-sm-12 col-xs-12'>
