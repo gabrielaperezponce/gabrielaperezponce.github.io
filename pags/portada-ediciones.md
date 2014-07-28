@@ -25,7 +25,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/escuela-arq-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>7 publicaciones</p></div></a>
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/escuela-arq-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>7 publicaciones</p></div></a>
             <div class="franja-categoria fondo-rojo-claro">
               <p>Arquitectura y Diseño</p>
             </div>
@@ -33,7 +33,7 @@ title: Archivo Histórico JVA
         </div>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/poesia-cat2.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>7 publicaciones</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/poesia-cat2.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>7 publicaciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Poesía</p>
             </div>
@@ -41,7 +41,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/ame-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>4 publicaciones</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/ame-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>4 publicaciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Escuela</p>
             </div>
@@ -49,7 +49,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/regalo-cat-1.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/regalo-cat-1.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Regalos</p>
             </div>
@@ -59,7 +59,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/filosofal-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a>
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/filosofal-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a>
             <div class="franja-categoria fondo-rojo-claro">
               <p>Filosofales</p>
             </div>
@@ -67,7 +67,7 @@ title: Archivo Histórico JVA
         </div>
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/pucv-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>3 publicaciones</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/pucv-cat.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>3 publicaciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Colección Pucv</p>
             </div>
@@ -75,7 +75,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/margot-loyola.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>3 publicaciones</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/margot-loyola.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>3 publicaciones</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>Históricas</p>
             </div>
@@ -83,7 +83,7 @@ title: Archivo Histórico JVA
         </div> 
         <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>             
           <div class='prev-imagen lg'>
-            <a><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/carta-alemania.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a> 
+            <a href='{{ site.baseurl }}/pags/categoria-ediciones/index.html'><img class='ancho-maximo'src="{{ site.baseurl }}/img/img-archivo/carta-alemania.jpg"><div class="text-content"><p class='blanco'><i class="icn icn-libro icn-lg blanco"></i></br>1 publicación</p></div></a> 
             <div class="franja-categoria fondo-rojo-claro">
               <p>HeteroGenios</p>
             </div>

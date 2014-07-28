@@ -26,7 +26,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-               <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+               <a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
 	               <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
 	               <div class='seguir-leyendo-cuadro'>
 	                  <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -42,7 +42,7 @@ title: Archivo Histórico JVA
          </div><!-- fin columnas -->
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-               <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+               <a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
                   <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
                   <div class='seguir-leyendo-cuadro'>
                     	<p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -58,7 +58,7 @@ title: Archivo Histórico JVA
          </div><!-- fin columnas -->
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-               <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+              <a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
                   <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
                   <div class='seguir-leyendo-cuadro'>
                     	<p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -76,7 +76,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-               <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+               <a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
                  	<p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
                   <div class='seguir-leyendo-cuadro'>
                     	<p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -92,7 +92,7 @@ title: Archivo Histórico JVA
          </div><!-- fin columnas -->
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-              	<a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+              	<a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
                   <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
                   <div class='seguir-leyendo-cuadro'>
                      <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -108,7 +108,7 @@ title: Archivo Histórico JVA
          </div><!-- fin columnas -->
          <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-               <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+               <a href='{{ site.baseurl }}/pags/vista-edicion/index.html' class='bloque-enlace portada categoria-especifica'>
                   <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
                   <div class='seguir-leyendo-cuadro'>
                      <p class='seguir-leyendo'>Ver publicación</p><p class='seguir-leyendo ver-mas'>+</p>
