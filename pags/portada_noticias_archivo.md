@@ -13,10 +13,8 @@ title: Archivo Histórico JVA
     </div>
   </div>
 </div>
-<div class='fondo-negro'>
-  <div class='wrap'>
-    <h1 class="entry-title generico"><i class="icn icn-noticias icn-lg"></i> Noticias</h1>
-  </div>
+<div class='wrap'>
+   <h1 class="entry-title especifico"><i class="icn icn-noticias icn-sm"></i> Noticias</h1>
 </div>
 <div class='fondo-blanco'>
   <div class='wrap'>
