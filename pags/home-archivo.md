@@ -66,7 +66,7 @@ title: Archivo Histórico JVA
   <div class='fondo-blanco'>
     <div class='wrap'>
       <div class='seccion'>
-        <a href="#"><h3><i class="icn icn-noticias icn-md"></i> Noticias</h3></a>
+        <h3><i class="icn icn-noticias icn-md"></i> Noticias</h3>
       </div>
       <div class='fila'> <!-- Noticia destacada -->
         <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
@@ -146,7 +146,7 @@ title: Archivo Histórico JVA
   </div>
   <div class='wrap'> <!--  Inicio Álbumes destacados -->    
     <div class='seccion'>
-       <a href='#'><h3><i class="icn icn-estrella-l icn-md"></i> Álbumes destacados</h3></a>
+       <h3><i class="icn icn-estrella-l icn-md"></i> Álbumes destacados</h3>
     </div>
     <div class='fila'>
       <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>      
@@ -248,7 +248,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='wrap'>
         <div class='seccion'>
-          <a href='#'><h3><i class="icn icn-biblioteca icn-md"></i> Catálogos en línea</h3></a>
+          <h3><i class="icn icn-biblioteca icn-md"></i> Catálogos en línea</h3>
         </div>
         <div class='fila'>            
           <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
