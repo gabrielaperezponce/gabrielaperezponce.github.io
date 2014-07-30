@@ -174,7 +174,7 @@ title: Archivo Histórico JVA
     </div>
     <div class='fila'>
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='http://wiki.ead.pucv.cl/index.php/Biblioteca_Con%C2%A7tel' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -192,7 +192,7 @@ title: Archivo Histórico JVA
         </a>
       </div>
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong#Colecci.C3.B3n_Documentos' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -210,7 +210,7 @@ title: Archivo Histórico JVA
         </a>      
       </div>
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -228,7 +228,7 @@ title: Archivo Histórico JVA
         </a>
       </div>             
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='https://www.flickr.com/photos/archivo-escuela/sets/72157634658037982/' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -246,7 +246,7 @@ title: Archivo Histórico JVA
         </a>
       </div>
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='http://vimeo.com/album/2421492/video/13133028' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -264,7 +264,7 @@ title: Archivo Histórico JVA
         </a>
       </div>
       <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-        <a href='#' class='bloque-enlace portada categoria-especifica'>
+        <a href='https://soundcloud.com/archivo-jose-vial-a/sets/2014-2-trimestre-amereida' class='bloque-enlace portada categoria-especifica'>
           <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
           <div class='seguir-leyendo-cuadro'>
             <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -316,7 +316,7 @@ title: Archivo Histórico JVA
       </div>
       <div class='fila'>            
         <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
-          <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <a href='https://www.flickr.com/photos/archivo-escuela/sets/' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
               <p class='seguir-leyendo'>Ir a Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -332,7 +332,7 @@ title: Archivo Histórico JVA
           </a>     
         </div>             
         <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
-          <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <a href='https://soundcloud.com/archivo-jose-vial-a' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
               <p class='seguir-leyendo'>Ir a Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -348,7 +348,7 @@ title: Archivo Histórico JVA
           </a>       
         </div>            
         <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
-          <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <a href='http://vimeo.com/escuela/albums' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
               <p class='seguir-leyendo'>Ir a Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
