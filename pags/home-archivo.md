@@ -92,229 +92,281 @@ title: Archivo Histórico JVA
   </div>
   <div class='wrap'><!-- Inicio noticias varias -->
     <div class='fila'>
-      <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-        <div class='cont-noticia-previa'>
-          <div class='prev-imagen lg'>
-            <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/seminario-dis.jpg'>
-          </div>                
-          <a href='#'><h6 class="rojo-claro titulo-noticia-prev">“De la hipótesis al Diseño: Aproximaciones, casos y obras”</h6><p>El objetivo del seminario es dar lugar a la exposición e intercambio de ideas referidas al diseño, creando una instancia [...] </p></a>
-        </div>
-      </div>
-      <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-        <div class='cont-noticia-previa'>
-          <div class='prev-imagen lg'>
-            <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/concurso-vergel.jpg'>
-          </div>
-          <a href='#'><h6 class="rojo-claro titulo-noticia-prev">Convocatoria Concurso de Ideas y Relatos: Vergel 439</h6> <p>Producto del trágico siniestro que afectó a la ciudad de Valparaíso el pasado 12 de abril de 2014, el académico Luis Álvarez Aránguiz,[...]</p></a>
-        </div>
-      </div>
-      <div class='col-lg-3 col-md-3 oculto-sm oculto-xs'>
-        <div class='cont-noticia-previa'>
-          <div class='prev-imagen lg'>
-            <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/Ojos-Gato-2014.png'>
-          </div>                
-          <a href='#'><h6 class="rojo-claro titulo-noticia-prev">Presentación Libro "Los Ojos del Gato" Memorial de Edison Simons</h6> <p>Se llevó a cabo en la Escuela la inauguración de la exposición de grabados del poeta panameño Edison Simons, y el lanzamiento del libro [...]</p></a> 
-        </div>
-      </div> 
-      <div class='col-lg-3 col-md-3 oculto-sm col-xs-12'><!-- inicio lista más noticias -->
+      <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
+        <div class='noticia-chica'>
+          <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/MDGF-brazo-mecanico-croquis-010.jpg'>
+            </div>
+            <h6>Máquina digitalizadora de grandes formatos gana Concurso de Ideas Innovadoras de Funcionarios</h6>
+            <aside class='entry-details'>Publicado el 26 de Junio de 2014</aside>
+            <p>Esta semana se dieron a conocer los resultados del Concurso de Ideas Innovadoras de Funcionarios, de la Dirección de Innovación y Emprendimiento de la PUCV, que busca “activar y potenciar la creatividad de los funcionarios administrativos”.</p>
+          </a>
+        </div><!-- fin noticia-chica -->
+      </div><!-- fin columna -->
+      <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
+        <div class='noticia-chica'>
+          <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/juan-hernandez-edicion.png'>
+            </div>
+            <h6>"Fotografías de Valparaíso" edición de Juan Hernández</h6>
+            <aside class='entry-details'>Publicado el 24 de abril, 2014</aside>
+            <p>En el mes de diciembre, el Consejo Nacional de la Cultura y las Artes dio a conocer los resultados de las postulaciones a los Fondos de Cultura 2014, dentro de los que fueron seleccionados dos proyectos asociados a la e[ad].</p>
+          </a>
+        </div><!-- fin noticia-chica -->
+      </div><!-- fin columna -->
+      <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
+        <div class='noticia-chica'>
+          <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/boletines.png'>
+            </div>
+            <h6>Boletines del Archivo</h6>
+            <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+            <p>Desde hace un tiempo a esta parte hemos estado publicando un boletín mensual que presenta las novedades y contenidos que nuestro Archivo disponibiliza.</p>  
+          </a>
+        </div><!-- fin noticia-chica -->
+      </div><!-- fin columna -->
+      <div class='col-lg-3 oculto-md col-sm-6 col-xs-12'><!-- inicio lista más noticias -->
         <div class='cont-noticia-previa'>
           <h6 class='negro-claro altas chica'>más noticias</h6>
           <div class='cont-icono-fecha'>
             <i class='icn icn-noticias icn-md gris'></i>
-            <span class='gris-oscuro datos-pub-jva'>viernes 16 de Mayo de 2014</span>
+            <span class='gris-oscuro datos-pub-jva'>02 de enero, 2014</span>
           </div> 
           <div class='titulo-noticia-prev'>
-            <a href='#'><p class='subtitulo rojo-claro'>Proyectos de la e[ad] seleccionados por Fondo “Ideas y Manos para Valparaíso”</p></a>
+            <a href='#'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
           </div>
           <div class='cont-icono-fecha'>
             <i class='icn icn-noticias icn-md gris'></i>
-            <span class="gris-oscuro datos-pub-jva">lunes 5 de mayo de 2014</span>
+            <span class="gris-oscuro datos-pub-jva">19 de abril, 2013</span>
           </div>
           <div class='titulo-noticia-prev'>
-            <a href='#'><p class='subtitulo rojo-claro margen-lista'>Concursos de Innovación y Emprendimiento: postulaciones hasta el 11 de mayo</p></a>
+            <a href='#'><p class='subtitulo rojo-claro margen-lista'>Exposición Reconstrucción de la Parroquia de Corral 1960 – 2012</p></a>
           </div> 
           <div class='cont-icono-fecha'>
             <i class='icn icn-noticias icn-md gris'></i>
-            <span class="gris-oscuro datos-pub-jva">lunes 5 de mayo de 2014</span>
+            <span class="gris-oscuro datos-pub-jva">22 de noviembre, 2012</span>
           </div>
           <div class='titulo-noticia-prev'>
-            <a href='#'><p class='subtitulo rojo-claro margen-lista'>Exposición Travesía Magallanes 2013 en Museo Marítimo Nacional</p></a>
+            <a href='#'><p class='subtitulo rojo-claro margen-lista'>Reflexiones sobre Valparaíso</p></a>
           </div>               
         </div>
-      </div>   
-    </div> <!-- fin fila -->
+      </div>  
+    </div><!-- fin fila -->
   </div>
   <div class='wrap'> <!--  Inicio Álbumes destacados -->    
     <div class='seccion'>
-       <h3><i class="icn icn-estrella-l icn-md"></i> Álbumes destacados</h3>
+      <h3><i class="icn icn-estrella-l icn-lg"></i> Destacados</h3>
     </div>
     <div class='fila'>
-      <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>      
-        <div class='cont-destacados fondo-gris-claro'>
-          <div class='prev-imagen lg'>
-            <img class='altura-foto-interior'src='{{ site.baseurl }}/img/img-archivo/foto-album-1.jpg'></br>
-          </div>
-          <div class='cuadro-icono fondo-gris-oscuro'><i class= 'icn icn-acto icn-lg blanco recuadro-icn'></i> </div>
-            <a href='/pags/album-catalogo/index.html'><h6 class='rojo-claro texto-cuadro-des'>Montaje y Exposición: 4ta Bienal </br>"Chile se Diseña"</h6></a>
-            <h6 class="datos-pub-jva">Publicado día 21 de Abril 2014.</h6>
-            <div class='cont-descripcion'>
-              <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas '>Entre el 26 de noviembre y el 12 de diciembre de 2010 se realizó la 4ª Bienal de Diseño que marcó la refundación de las bienales de esta disciplina luego de 14 años de ausencia.</p>
-            </div> 
-            <p class="categorias-pub-jva">[ Diseño ] [ Actividades ]</p>  
-            <div class='margen-icn-mas'>
-              <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas rojo-claro'></i></a>
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/Kappa_portada_web.jpg'>
             </div>
-          </div>
-        </div>
-        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-          <div class='cont-destacados fondo-gris-claro'>
-            <div class='prev-imagen lg'>
-              <img class='altura-foto-interior'src='{{ site.baseurl }}/img/img-archivo/foto-album-2.jpg'>
-            </div>   
-            <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-imagen icn-lg blanco recuadro-icn'></i></div> 
-              <a href='/pags/album-catalogo/index.html'><h6 class='rojo-claro texto-cuadro-des'>Valparaíso Antiguo: </br>Capturas de Juan Hernández</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 23 de Abril 2014.</h6>
-              <div class='cont-descripcion'>
-                <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>Imágenes de la ciudad entre 1960 y 1980, que da cuenta de rasgos esenciales de la identidad original del puerto y su patrimonio,bajo el registro histórico de Juan Hernández, [...]</p>
-              </div>
-              <p class="categorias-pub-jva">[ Catastro ]</p>  
-              <div class='margen-icn-mas'>
-                <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas rojo-claro'></i></a>
-             </div>
-          </div>        
-        </div>
-        <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-          <div class='cont-destacados fondo-gris-claro'>
-            <div class='prev-imagen lg'>
-              <img class='altura-foto-interior'src='{{ site.baseurl }}/img/img-archivo/foto-album-3.jpg'>
-            </div>   
-            <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-travesia icn-lg blanco recuadro-icn'></i></div>
-              <a href='/pags/album-catalogo/index.html'><h6 class='rojo-claro texto-cuadro-des'>Travesía Caldera: </br>Habitáculos para el desierto</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 24 de Abril 2014.</h6>
-              <div class='cont-descripcion'>
-                <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>Travesía al norte del país, realizada por alumnos de taller de Diseño Industrial y el profesor Ricardo Lang el año 1987.</p>
-              </div> 
-              <p class="categorias-pub-jva">[ Travesía ] [ Diseño Industrial ]</p>                      
-              <div class='margen-icn-mas'>
-                <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas rojo-claro'></i></a>
-              </div> 
-            </div>
-          </div>
-          <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-            <div class='cont-destacados fondo-gris-claro'>
-              <div class='prev-imagen lg'>
-                <img class='altura-foto-interior'src='{{ site.baseurl }}/img/img-archivo/travesia-san-luis.jpg'>
-              </div>  
-              <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-travesia icn-lg blanco recuadro-icn'></i></div>
-              <a href='/pags/album-catalogo/index.html'><h6 class='rojo-claro texto-cuadro-des'>Travesía San Luis, Argentina: </br>Talleres 1º año Diseño y 2° DG</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 24 de Abril 2014.</h6>
-              <div class='cont-descripcion'>
-                <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>La obra construye la transversal del camino, la transversal del cielo.Esta es una plaza que se aparece en trans-formación.Poblarse y despoblarse a través del día y la noche.</p>
-              </div> 
-              <p class="categorias-pub-jva">[ Travesía ] [ Diseño Industrial ]</p>                       
-              <div class='margen-icn-mas'>
-                <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas rojo-claro'></i></a>
-              </div> 
-            </div>
-          </div>
-        </div> <!-- fin fila -->
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>Oda a Kappa</h6>
+            <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+            <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Godofredo Iommi ] [ Biblioteca Constel ]</div>                 
+          </div><!-- fin noticia-chica -->
+        </a>
       </div>
-      <div class='fondo-blanco'><!-- inicio publicaciones recientes -->
-        <div class='wrap'>
-          <div class='seccion'>
-            <h3><i class="icn icn-etiqueta icn-md"></i> Publicaciones</h3>
-          </div>
-          <div class='fila'> <!-- Noticia destacada -->
-            <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
-              <img class= 'destacada-archivo' src='{{ site.baseurl }}/img/img-carousel/bienaldis-4.jpg'>          
-              <div class='indice-fecha fondo-gris-oscuro'>
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/documentos-categoria.jpg'>
+            </div>
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-l icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>DOC ele 69 - Correspondencia Avda. del Mar - Vía Elevada</h6>
+            <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+            <p>Colección de documentos del proyecto Vía Elevada. Estos documentos se encontraron en viejos archivadores en una bodega subterránea de la Casa de la Escuela en 2010.</p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Documentos] [ Proyecto ]</div>
+          </div><!-- fin noticia-chica --> 
+        </a>      
+      </div>
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TOR cor 75 - Cortejo- 50.jpg'>
+            </div>
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
+            <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+            <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Catálogo] [ Casiopea ]</div>
+          </div><!-- fin noticia-chica -->  
+        </a>
+      </div>             
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
+            </div>
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-jekyll icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>Trehuaco Aula Neumatra</h6>
+            <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+            <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Travesías] [ Colección fotográfica ]</div>
+          </div><!-- fin noticia-chica --> 
+        </a>
+      </div>
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/Torneo Manto Aerodinámico.jpg'>
+            </div>
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-vimeo icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>Torneo Manto Aerodinámico - TOR man 1992</h6>
+            <aside class='entry-details'>Publicado el  06 de julio, 2010</aside>
+            <p>Torneo durante la celebración de los 40 años de la Escuela, en la ciudad abierta. El juego original consistía en una competencia con un balón de gran tamaño y el manto extendido horizontal y tenso sobre una campo en la vega.</p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Torneos] [ Vida Universitaria ] [ Video ]</div>
+          </div><!-- fin noticia-chica -->
+        </a>
+      </div>
+      <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+        <a href='#' class='bloque-enlace portada categoria-especifica'>
+          <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+          <div class='seguir-leyendo-cuadro'>
+            <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+          </div>   
+          <div class='noticia-chica'>
+            <div class='prev-imagen sm'>
+              <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/amereida-cat-audio.jpg'>
+            </div>
+            <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud icn-lg blanco recuadro-icn'></i></div>
+            <h6 class='rojo-claro'>2014 2º Trimestre, Taller de Amereida</h6>
+            <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
+            <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta.</p> 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
+          </div><!-- fin noticia-chica -->
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class='fondo-blanco'>
+    <div class='wrap'>
+      <div class='seccion'>
+        <h3><i class="icn icn-ampolleta icn-lg"></i> Últimos proyectos</h3>
+      </div>
+      <div class='fila'> <!-- Noticia destacada -->
+        <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
+          <img class= 'destacada-archivo' src='{{ site.baseurl }}/img/img-archivo/desvios_1.jpg'>          
+            <div class='indice-fecha fondo-gris-oscuro'>
               <div class='linea-vert-fecha fondo-blanco'></div>
-                <div class='contenedor-fecha'>
-                  <p class='fecha-destacado'> 05 <br/></p>
-                  <p class='fecha-destacado'>may</p>
-                </div>
+              <div class='contenedor-fecha'>
+                <p class='fecha-destacado'> 22 <br/></p>
+                <p class='fecha-destacado'>abr</p>
               </div>
-            </div>         
-            <div class='col-md-6'> 
-              <h6 class='gris-oscuro margen-superior'>Faenas y ágape</h6>
-              <a href='/pags/album-catalogo/index.html'><h2 class='rojo-claro fina'>4ta Bienal de Diseño "Chile se diseña"</h2></a>
-              <p class='xs gris-oscuro fina'>Entre el 26 de noviembre y el 12 de diciembre de 2010 se realizó la 4ª Bienal de Diseño que marcó la refundación de las bienales de esta disciplina luego de 14 años de ausencia. El evento buscó valorar la Imagen País mediante una selección de proyectos y emprendimientos personales de fuerte impacto cultural, social y económico. La bienal reflejó el quehacer profesional de la primera década del nuevo siglo y, sobre todo, estableció vínculos que permitieron al público comprender el diseño como un ámbito que impregna toda la vida cotidiana.</br>La escuela fue parte de este evento, realizando jornadas de faenas (elaboración de estructuras y ágapes) para inauguración de la bienal, apoyado por sus docentes y alumnos de diseño.</p></br>                     
-              <div class='margen-ver-mas'>
-                <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas icono-mas icn-lg rojo-claro'></i></a>
-              </div>  
             </div>
-          </div> <!-- fin fila noticia destacada -->
-        </div> <!-- fin wrap -->
+          </div>       
+          <div class='col-md-6 margen-superior'> 
+            <h6 class='gris-oscuro'>Desvíos de la deriva</h6>
+            <a href=''><h2 class='rojo-claro fina'>Experiencias, travesías y morfologías </h2></a>
+            <p class='xs  fina'>Esta exposición narra el desvío impredecible de los numerosos modelos arquitectónicos alternativos en la América Latina de mediados del siglo XX. </br> En la Escuela de Valparaíso (Chile), en los años cincuenta existe una visión del mundo como un continuo de aprendizaje arquitectónico y de la arquitectura como un acto poético, en el sentido estricto de "poiesis", desarrollo de un proyecto de investigación para la creación de una forma. Este pensamiento queda reflejado en los dibujos, textos y maquetas de Flavio de Carvalho (1899-1973), Juan Borchers (1910-1975), Lina Bo Bardi (1914-1992), Roberto Matta (1911-2002) y Sergio Bernardes (1919-2002), poetas-arquitectos que plantean dotar a los ciudadanos de amplios espacios lúdicos donde desarrollar formas de vida en comunidad.</p></br>  
+            <div class='margen-ver-mas'>
+              <a href='noticia-dest.html'><i class='icn icn-mas icono-mas icn-lg rojo-claro'></i></a>
+            </div>  
+          </div>
+        </div> <!-- fin fila noticia destacada -->
+      </div> <!-- fin wrap -->
+    </div>
+    <div class='wrap'>
+      <div class='seccion'>
+        <h3>Colecciones en línea</h3>
       </div>
-      <div class='wrap'>
-        <div class='seccion'>
-          <h3><i class="icn icn-biblioteca icn-md"></i> Catálogos en línea</h3>
-        </div>
-        <div class='fila'>            
-          <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-            <div class='cont-recientes fondo-gris-claro'>
-              <div class='prev-imagen lg'>
-                <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/marimenuco-travesia1.jpg'>
+      <div class='fila'>            
+        <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
+          <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Ir a Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Ir a Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>   
+            <div class='noticia-chica'>
+              <div class='prev-imagen sm'>
+                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/torneo-libro.png'>
               </div>
-              <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-jekyll icn-lg blanco recuadro-icn'></i></div>         
-              <a href='/pags/album-catalogo/index.html'><h6 class='rojo-claro texto-cuadro-des'>Travesía Marimenuco 2012</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 25 de Abril 2014.</h6>   
-              <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>Obra realizada anteriormente por estudiantes y docentes de Tercer Año de Arquitectura donde  se construyó una ruca para que los lugareños pudiesen celebrar su Wetripantu o año nuevo mapuche.</p>
-              <p class="categorias-pub-jva">[ Travesías ] [ Diseño Industrial ]</p>                 
-              <div class='margen-icn-mas'>
-                <a href='/pags/album-catalogo/index.html'><i class='icn icn-mas rojo-claro'></i></a>
-              </div> 
-            </div>       
-          </div>             
-          <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-            <div class='cont-recientes fondo-gris-claro'>
-              <div class='prev-imagen lg'>
-                <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/foto-pub-2.jpg'>
-              </div>                 
-              <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-soundcloud icn-lg blanco recuadro-icn'></i></div>     
-              <a href='/pags/categoria-archivo-palabra/index.html'><h6 class='rojo-claro texto-cuadro-des'>Taller de Amereida</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 30 de Abril 2014.</h6>   
-              <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>El Taller de Amereida es la instancia en que se reúne prácticamente la totalidad del cuerpo de la Escuela. es decir, estudiantes y profesores, a construir y debatir precisamente ese ser cuerpo.</p> 
-              <p class="categorias-pub-jva">[ Actividades ] [Taller de Amereida ]</p>                    
-              <div class='margen-icn-mas'>
-                <a href='/pags/categoria-archivo-palabra/index.html'><i class='icn icn-mas rojo-claro'></i></a>
-              </div> 
-            </div>       
-          </div>            
-          <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-            <div class='cont-recientes fondo-gris-claro'>
-              <div class='prev-imagen lg'>
-                <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/foto-pub-3.jpg'>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-jekyll icn-lg blanco recuadro-icn'></i></div>
+              <h6 class='rojo-claro'>Colección fotográfica</h6>
+              <p>El material fotográfico y gráfico en general, a medida que se va escaneando, se publica en el flickr del Archivo, ordenado en colecciones y álbumes temáticos.</p>  
+            </div><!-- fin noticia-chica -->
+          </a>     
+        </div>             
+        <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
+          <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Ir a Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Ir a Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>   
+            <div class='noticia-chica'>
+              <div class='prev-imagen sm'>
+                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/colecc-audio.png'>
               </div>
-              <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-vimeo icn-lg blanco recuadro-icn'></i></div>
-              <a href='/pags/categoria-video/index.html'><h6 class='rojo-claro texto-cuadro-des'>Phalène de Horcones</h6></a>
-              <h6 class="datos-pub-jva">Publicado día 30 de Abril 2014.</h6> 
-              <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'> Registro audiovisual de la Phalène de Horcones realizada el año 1964. Su registro en video a través del canal de la escuela en Vimeo tiene una duración de 12 minutos con 9 segundos.</p> 
-              <p class="categorias-pub-jva">[ Actos poéticos ]</p>                        
-              <div class='margen-icn-mas'>
-                <a href='/pags/categoria-video/index.html'><i class='icn icn-mas rojo-claro'></i></a>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud icn-lg blanco recuadro-icn'></i></div>
+              <h6 class='rojo-claro'>Archivo de la Palabra</h6>
+              <p>Lo que hemos llamado el archivo de la palabra, con los audios de clases, presentaciones, seminarios, etc. que se pueden oír directamente online. Los archivos más antiguos, disponibles hasta ahora, datan de 1979. </p>  
+            </div><!-- fin noticia-chica -->
+          </a>       
+        </div>            
+        <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
+          <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Ir a Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Ir a Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>   
+            <div class='noticia-chica'>
+              <div class='prev-imagen sm'>
+                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/colecc-video2.png'>
               </div>
-            </div> 
-          </div>  
-          <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
-            <div class='cont-recientes fondo-gris-claro'>
-              <div class='prev-imagen lg'>
-                <img class='foto-interior-pub' src='{{ site.baseurl }}/img/img-archivo/foto-labor3.jpg'>
-              </div>   
-              <div class='cuadro-icono fondo-gris-oscuro'><i class='icn icn-documento-l icn-lg blanco recuadro-icn'></i></div>   
-              <a href='#'><h6 class='rojo-claro texto-cuadro-des'>Casa Jean Mermoz </h6></a>
-              <h6 class="datos-pub-jva">Publicado día 30 de Abril 2014.</h6>             
-              <p class='xs negro-claro fina texto-cuadro-des margen-etiquetas'>Muestra realizada en el Museo Nacional de Bellas Artes, Santiago, Chile; consta de pizarrones de 1,5 x 1,5 mt. escritos y dibujados a tiza blanca. Se digitalizaron negativos fotográficos de 6 x 6 mm. </p> 
-              <p class="categorias-pub-jva">[Obras]</p>                      
-              <div class='margen-icn-mas'>
-                <a href='#'><i class='icn icn-mas rojo-claro'></i></a>
-              </div> 
-            </div>
-          </div> 
-        </div> <!-- fin fila catalogos-->
-      </div>
-    </div>  <!-- fin pag ancho total-->
-  </div> 
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-vimeo icn-lg blanco recuadro-icn'></i></div>
+              <h6 class='rojo-claro'>Colección audiovisual</h6>
+              <p> Los videos versan sobre actos, travesías y también clases, vida universitaria y actividades académicas. Este espacio se complementa con registros del Taller de Amereida que publica material desde 2006 en adelante. </p>  
+            </div><!-- fin noticia-chica -->
+          </a> 
+        </div>  
+      </div> <!-- fin fila catalogos-->
+    </div>
+  </div>  <!-- fin pag ancho total-->
+</div> 
 </div>
 </div>    
 </div>
