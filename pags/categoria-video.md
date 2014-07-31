@@ -29,10 +29,10 @@ title: Archivo Histórico JVA
         <div class='fila'>
            	<div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/38988542' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/38988542?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -46,10 +46,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/13215467' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/13215467?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -63,10 +63,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/63863159' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/63863159?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -80,10 +80,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/65308532' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/65308532?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -99,10 +99,10 @@ title: Archivo Histórico JVA
         <div class='fila'>
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/65310579' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/65310579?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -116,10 +116,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/65909674' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/65909674?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -133,10 +133,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/67664364' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/67664364?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -150,10 +150,10 @@ title: Archivo Histórico JVA
             </div><!-- fin columna -->
             <div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'>
                 <div class='noticia-chica'>
-                    <a href='#' class='bloque-enlace portada categoria-especifica'>
-                      <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                    <a href='http://vimeo.com/album/246642/video/71523507' class='bloque-enlace portada categoria-especifica'>
+                      <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                        <p class='seguir-leyendo'>Ver en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
                       </div>
                       <div class='prev-imagen sm'>
                         <iframe src="http://player.vimeo.com/video/71523507?title=0&amp;byline=0&amp;portrait=0&amp;color=c7514d" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
