@@ -187,7 +187,7 @@ title: Archivo Histórico JVA
             <h6 class='rojo-claro'>Oda a Kappa</h6>
             <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
             <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
-            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Godofredo Iommi ] [ Biblioteca Constel ]</div>                 
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Godofredo Iommi ] [ Biblioteca Constel ]</div>       
           </div><!-- fin noticia-chica -->
         </a>
       </div>
