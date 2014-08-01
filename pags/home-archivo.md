@@ -187,7 +187,7 @@ title: Archivo Histórico JVA
             <h6 class='rojo-claro'>Oda a Kappa</h6>
             <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
             <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
-            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Godofredo Iommi ] [ Biblioteca Constel ]</div>       
+            <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Godofredo Iommi ] [ Biblioteca Constel ]</div>    
           </div><!-- fin noticia-chica -->
         </a>
       </div>
@@ -204,7 +204,7 @@ title: Archivo Histórico JVA
             <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-l icn-lg blanco recuadro-icn'></i></div>
             <h6 class='rojo-claro'>DOC ele 69 - Correspondencia Avda. del Mar</h6>
             <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-            <p>Colección de documentos del proyecto Vía Elevada. Estos documentos se encontraron en archivadores en una bodega de la Escuela en 2010.</p> 
+            <p>Colección de documentos del proyecto Vía Elevada. Estos documentos se encontraron en viejos archivadores en una bodega de la Casa de la Escuela en 2010.</p> 
             <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Documentos] [ Proyecto ]</div>
           </div><!-- fin noticia-chica --> 
         </a>      
