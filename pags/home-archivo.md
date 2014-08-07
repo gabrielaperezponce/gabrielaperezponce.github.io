@@ -167,7 +167,7 @@ title: Archivo Histórico JVA
             </div>   
             <div class='noticia-chica'>
               <div class='prev-imagen sm'>
-                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TOR cor 75 - Cortejo- 50.jpg'>
+                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
               </div>
               <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
