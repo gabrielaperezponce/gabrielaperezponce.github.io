@@ -386,7 +386,14 @@ title: Archivo Histórico JVA
             </div>
             <div class='titulo-noticia-prev'>
               <a href='#'><p class='subtitulo rojo-claro margen-lista'>Reflexiones sobre Valparaíso</p></a>
-            </div>               
+            </div> 
+            <div class='cont-icono-fecha'>
+              <i class='icn icn-noticias icn-md gris'></i>
+              <span class='gris-oscuro datos-pub-jva'>02 de enero, 2014</span>
+            </div> 
+            <div class='titulo-noticia-prev'>
+              <a href='#'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
+            </div>              
           </div>
         </div>  
       </div><!-- fin fila -->
