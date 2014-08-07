@@ -149,7 +149,7 @@ title: Archivo Histórico JVA
             </div>   
             <div class='noticia-chica'>
               <div class='prev-imagen sm'>
-                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/documentos-categoria.jpg'>
+                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/documento-olivetti.png'>
               </div>
               <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-l icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>DOC ele 69 - Correspondencia Avda. del Mar</h6>
