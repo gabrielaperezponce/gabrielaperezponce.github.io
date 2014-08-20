@@ -13,31 +13,31 @@ title: Archivo Histórico JVA
       </ol> 
       <div class="carousel-inner"> 
         <div class="item active imagen-carousel"> <!-- 1er slide -->
-          <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-carousel/maquina-digitalizadora.jpg" title="Publicaciones recientes"> 
+          <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-archivo/penser-const.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i> EX bie 10 - IV Bienal de Diseño - Chile se diseña (faenas escuela) - 10</p> 
+           <p class='centrado'><i class="icn icn-estrella-lig icn-lg"></i> Archivo en el mundo: Exposición en EPFL Lausanne</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Publicaciones recientes</h1></a>
-              <p>Entre el 26 de noviembre y el 12 de diciembre de 2010 se realizó la 4ª Bienal de Diseño "Chile se diseña" que marcó la refundación de las bienales de esta disciplina luego de 14 años de ausencia.</p>
+              <a href='#'><h1>Exposición en EPFL Lausanne</h1></a>
+              <p>El Taller Valparaíso-Lausanne, realizó con ayuda de este archivo, una exposición en la EPFL, la que fue una obra en cuatro trazos: un Umbral construido en la entrada del lugar, el montaje de 256 láminas en la Sala Archizoom las que expondrán la realidad de obras de la Ciudad Abierta y las Travesías por el continente americano, la escultura Extensión Americana IV realizada in situ por el Taller y la inauguración de la exposición.</p>
             </div>
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 2do slide -->
-          <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-carousel/travesia-tarabuco1.jpg" title="Álbumes destacados"> 
+          <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-archivo/maquina-digitalizadora.jpg" title="Noticias"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-estrella-lig icn-lg"></i> TRA tar 13 - Travesía Tarabuco (Faenas y obra) - 077</p> 
+            <p class='centrado'><i class="icn icn-noticia-lig icn-lg"></i> Maquina digitalizadora de grandes formatos, gana concurso de Ideas Innovadoras de Funcionarios</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Álbumes destacados</h1></a>
-              <p>Travesía Tarabuco - Bolivia, realizada por el Taller de 2º año Diseño Industrial 2013, junto al profesor Juan Carlos Jeldes y su ayudante Daniela Salgado.</p> 
+              <a href='#'><h1>Noticias</h1></a>
+              <p>Esta semana se dieron a conocer los resultados del Concurso de Ideas Innovadoras de Funcionarios, de la Dirección de Innovación y Emprendimiento de la PUCV, que busca “activar y potenciar la creatividad de los funcionarios administrativos”.</p> 
             </div>
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 3er slide -->
-          <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/img-carousel/torneo-triagon.jpg" title="Noticias"> 
+          <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/img-carousel/torneo-triagon.jpg" title="Últimos documentos"> 
           <div class='pie-de-foto'> 
             <p class='centrado'><i class="icn icn-documento-lig icn-lg"></i> TOR tri 04 - Torneo Triagón - 129</p>  
           </div> 
@@ -49,14 +49,14 @@ title: Archivo Histórico JVA
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 4to slide -->
-          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/EN-tor-57-Secuencia C° Carcel, torres y casas-05.jpg" title="Publicaciones recientes"> 
+          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/carousel-pub-flickr.jpg" title="Nuevo álbum en Flickr"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EN-tor-57-Secuencia C° Carcel, torres y casas-05</p> 
+            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Nuevas publicaciones</h1></a>
-              <p>Las fotografías de Ruperto Lang † fue puesta al cuidado del Archivo José Vial Armstrong por el hijo del fotográfo, el diseñador y profesor Ricardo Lang Viacava. Este material constituye un fondo especial dentro de nuestro Archivo.</p>
+              <a href='#'><h1>Nuevo álbum en Flickr</h1></a>
+              <p>Esta disponible a través de nuestra cuenta en Flickr un nuevo álbum fotográfico, que tiene por temática el período de Rondas de talleres 2014 , primer trimestre.</p>
             </div>
           </div> 
         </div>    
