@@ -265,10 +265,7 @@ title: Archivo Histórico JVA
           <div class='col-md-6 margen-superior'> 
             <h6 class='gris-oscuro'>‘Nuestro desconocido, nuestro caos, nuestro mar’</h6>
             <a href='http://eleco.unam.mx/eleco/exposicion/escuela-de-arquitectura-de-valparaiso-curaduria-de-maria-berrios/?lang=es'><h2 class='rojo-claro fina'>Escuela de Valparaíso y su pedagogía del juego</h2></a>
-            <p class='margen-superior'>El encuentro entre poesía y arquitectura es la base de lo que hoy se conoce como la Escuela de Valparaíso. Más que una institución académica dedicada a la enseñanza de la arquitectura, se trata de un colectivo que desde 1952 concibe este encuentro desde su poiesis: actos poéticos que se definen en el proceso de aparecer y desparecer en el espacio. Su enseñanza se opone al reduccionismo de la arquitectura al cuerpo inerte de sus edificaciones y se levanta, en nombre de la poesía, en contra de la mercantilización del habitar humano. </br>La exposición está enfocada en el acto poético como práctica pedagógica y la experiencia lúdica colectiva como modo de aprendizaje arquitectónico.</p></br>     
-            <div class='margen-ver-mas'>
-              <a href='noticia-dest.html'><i class='icn icn-mas icono-mas icn-lg rojo-claro'></i></a>
-            </div>  
+            <p class='margen-superior'>El encuentro entre poesía y arquitectura es la base de lo que hoy se conoce como la Escuela de Valparaíso. Más que una institución académica dedicada a la enseñanza de la arquitectura, se trata de un colectivo que desde 1952 concibe este encuentro desde su poiesis: actos poéticos que se definen en el proceso de aparecer y desparecer en el espacio. Su enseñanza se opone al reduccionismo de la arquitectura al cuerpo inerte de sus edificaciones y se levanta, en nombre de la poesía, en contra de la mercantilización del habitar humano. </br>La exposición está enfocada en el acto poético como práctica pedagógica y la experiencia lúdica colectiva como modo de aprendizaje arquitectónico.</p></br>       
           </div>
         </div> <!-- fin fila noticia destacada -->
         <div class='fila'>
