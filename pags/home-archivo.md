@@ -15,7 +15,7 @@ title: Archivo Histórico JVA
         <div class="item active imagen-carousel"> <!-- 1er slide -->
           <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-carousel/bienaldis-4.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta icn-lg"></i> EX bie 10 - IV Bienal de Diseño - Chile se diseña (faenas escuela) - 10</p> 
+            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i> EX bie 10 - IV Bienal de Diseño - Chile se diseña (faenas escuela) - 10</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -27,7 +27,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 2do slide -->
           <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-carousel/travesia-tarabuco1.jpg" title="Álbumes destacados"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-estrella-l icn-lg"></i> TRA tar 13 - Travesía Tarabuco (Faenas y obra) - 077</p> 
+            <p class='centrado'><i class="icn icn-estrella-lig icn-lg"></i> TRA tar 13 - Travesía Tarabuco (Faenas y obra) - 077</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -39,7 +39,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 3er slide -->
           <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/img-carousel/torneo-triagon.jpg" title="Noticias"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-documento-l icn-lg"></i> TOR tri 04 - Torneo Triagón - 129</p>  
+            <p class='centrado'><i class="icn icn-documento-lig icn-lg"></i> TOR tri 04 - Torneo Triagón - 129</p>  
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -51,7 +51,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 4to slide -->
           <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/EN-tor-57-Secuencia C° Carcel, torres y casas-05.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta icn-lg"></i>  EN-tor-57-Secuencia C° Carcel, torres y casas-05</p> 
+            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EN-tor-57-Secuencia C° Carcel, torres y casas-05</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -165,7 +165,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/Kappa_portada_web.jpg'>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Oda a Kappa</h6>
               <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
               <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
@@ -183,7 +183,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/documento-olivetti.png'>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-l icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Cuadernillo Casa Olivetti</h6>
               <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
               <p>Colección de documentos proyecto de casa para los gerentes de Olivetti S.A. en Lo Curro, Santiago. Arquitectos: Alberto Cruz y Miguel Eyquem.</p> 
@@ -201,7 +201,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
               <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
               <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
@@ -219,7 +219,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=traves%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=traves%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-jekyll icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-flickr-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Travesías en Flickr</h6>
               <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
               <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
@@ -237,7 +237,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <iframe src="http://player.vimeo.com/video/13133028?title=0&amp;byline=0&amp;portrait=0&amp;color=C7514D" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-vimeo icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-vimeo-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Torneo Manto Aerodinámico en Vimeo</h6>
               <aside class='entry-details'>Publicado el  06 de julio, 2010</aside>
               <p>Torneo durante la celebración de los 40 años de la Escuela, en la ciudad abierta. El juego original consistía en una competencia con un balón de gran tamaño y el manto extendido horizontal y tenso sobre una campo en la vega.</p> 
@@ -255,7 +255,7 @@ title: Archivo Histórico JVA
               <div class='prev-imagen sm'>
                 <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
               </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud icn-lg blanco recuadro-icn'></i></div>
+              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Taller de Amereida en Soundcloud</h6>
               <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
               <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
