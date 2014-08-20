@@ -156,115 +156,96 @@ title: Archivo Histórico JVA
       </div>
       <div class='fila'>
         <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='http://wiki.ead.pucv.cl/index.php/Biblioteca_Con%C2%A7tel' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/Kappa_portada_web.jpg'>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Oda a Kappa</h6>
-              <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-              <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Biblioteca Constel ]</div>                 
-            </div><!-- fin noticia-chica -->
-          </a>
-        </div>
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong#Colecci.C3.B3n_Documentos' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/documento-olivetti.png'>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Cuadernillo Casa Olivetti</h6>
-              <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-              <p>Colección de documentos proyecto de casa para los gerentes de Olivetti S.A. en Lo Curro, Santiago. Arquitectos: Alberto Cruz y Miguel Eyquem.</p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Documentos] [ Proyecto ]</div>
-            </div><!-- fin noticia-chica --> 
-          </a>      
-        </div>
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
-              <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-              <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Catálogo] [ Casiopea ]</div>
-            </div><!-- fin noticia-chica -->  
-          </a>
-        </div>             
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='https://www.flickr.com/photos/archivo-escuela/sets' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=traves%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dtraves%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=traves%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-flickr-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Travesías en Flickr</h6>
-              <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-              <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Travesías] [ Colección fotográfica ]</div>
-            </div><!-- fin noticia-chica --> 
-          </a>
-        </div>
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='http://vimeo.com/album/2421492/video/13133028' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <iframe src="http://player.vimeo.com/video/13133028?title=0&amp;byline=0&amp;portrait=0&amp;color=C7514D" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-vimeo-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Torneo Manto Aerodinámico en Vimeo</h6>
-              <aside class='entry-details'>Publicado el  06 de julio, 2010</aside>
-              <p>Torneo durante la celebración de los 40 años de la Escuela, en la ciudad abierta. El juego original consistía en una competencia con un balón de gran tamaño y el manto extendido horizontal y tenso sobre una campo en la vega.</p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Torneos] [ Vida Universitaria ] [ Video ]</div>
-            </div><!-- fin noticia-chica -->
-          </a>
-        </div>
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-          <a href='https://soundcloud.com/archivo-jose-vial-a/sets/2014-2-trimestre-amereida' class='bloque-enlace portada categoria-especifica'>
-            <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
-            <div class='seguir-leyendo-cuadro'>
-              <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
-            </div>   
-            <div class='noticia-chica'>
-              <div class='prev-imagen sm'>
-                <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-              </div>
-              <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud-lig icn-lg blanco recuadro-icn'></i></div>
-              <h6 class='rojo-claro'>Taller de Amereida en Soundcloud</h6>
-              <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
-              <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
-              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
-            </div><!-- fin noticia-chica -->
-          </a>
-        </div>
-      </div>
-    </div>
+                    <a href='http://wiki.ead.pucv.cl/index.php/Biblioteca_Con%C2%A7tel' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>   
+                      <div class='noticia-chica'>
+                          <div class='prev-imagen sm'>
+                            <img class='ancho-maximo' src='/img/img-archivo/Kappa_portada_web.jpg'>
+                          </div>
+                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel-lig icn-lg blanco recuadro-icn'></i></div>
+                          <h6 class='rojo-claro'>Oda a Kappa</h6>
+                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                          <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
+                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Biblioteca Constel ]</div>                 
+                      </div><!-- fin noticia-chica -->
+                    </a>
+                    </div>
+                    <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong#Colecci.C3.B3n_Documentos' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>   
+                      <div class='noticia-chica'>
+                          <div class='prev-imagen sm'>
+                            <img class='ancho-maximo' src='/img/img-archivo/documento-olivetti.png'>
+                          </div>
+                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-lig icn-lg blanco recuadro-icn'></i></div>
+                          <h6 class='rojo-claro'>Cuadernillo Casa Olivetti</h6>
+                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                          <p>Colección de documentos proyecto de casa para los gerentes de Olivetti S.A. en Lo Curro, Santiago. Arquitectos: Alberto Cruz y Miguel Eyquem.</p> 
+                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Documentos] [ Proyecto ]</div>
+                      </div><!-- fin noticia-chica --> 
+                      </a>      
+                    </div>
+                    <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
+                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>   
+                      <div class='noticia-chica'>
+                          <div class='prev-imagen sm'>
+                            <img class='ancho-maximo' src='/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
+                          </div>
+                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea-lig icn-lg blanco recuadro-icn'></i></div>
+                          <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
+                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                          <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
+                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Catálogo] [ Casiopea ]</div>
+                      </div><!-- fin noticia-chica -->  
+                    </a>
+                    </div>             
+                  <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+                     <a href='https://www.flickr.com/photos/archivo-escuela/sets' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>             
+                            <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
+                    </a>
+                    </div>
+                    <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+                       <a href='http://vimeo.com/album/2421492/video/13133028' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>   
+                          <iframe src="http://player.vimeo.com/video/63704078?portrait=0&amp;color=C7514D" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                       </a>
+                    </div>
+                    <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+                       <a href='https://soundcloud.com/archivo-jose-vial-a/sets/2014-2-trimestre-amereida' class='bloque-enlace portada categoria-especifica'>
+                          <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+                          <div class='seguir-leyendo-cuadro'>
+                            <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+                          </div>   
+                      <div class='noticia-chica'>
+                          <div class='prev-imagen sm'>
+                            <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                          </div>
+                          <h6 class='rojo-claro'>Taller de Amereida en Soundcloud</h6>
+                          <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
+                          <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
+                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
+                      </div><!-- fin noticia-chica -->
+                    </a>
+                    </div>
+                  </div>
+                </div>
     <div class='fondo-blanco'>
       <div class='wrap'>
         <div class='seccion'>
@@ -284,7 +265,7 @@ title: Archivo Histórico JVA
           <div class='col-md-6 margen-superior'> 
             <h6 class='gris-oscuro'>‘Nuestro desconocido, nuestro caos, nuestro mar’</h6>
             <a href='http://eleco.unam.mx/eleco/exposicion/escuela-de-arquitectura-de-valparaiso-curaduria-de-maria-berrios/?lang=es'><h2 class='rojo-claro fina'>Escuela de Valparaíso y su pedagogía del juego</h2></a>
-            <p class='xs  fina'>El encuentro entre poesía y arquitectura es la base de lo que hoy se conoce como la Escuela de Valparaíso. Más que una institución académica dedicada a la enseñanza de la arquitectura, se trata de un colectivo que desde 1952 concibe este encuentro desde su poiesis: actos poéticos que se definen en el proceso de aparecer y desparecer en el espacio.La exposición está enfocada en el acto poético como práctica pedagógica y la experiencia lúdica colectiva como modo de aprendizaje arquitectónico.</p></br>    
+            <p class='margen-superior'>El encuentro entre poesía y arquitectura es la base de lo que hoy se conoce como la Escuela de Valparaíso. Más que una institución académica dedicada a la enseñanza de la arquitectura, se trata de un colectivo que desde 1952 concibe este encuentro desde su poiesis: actos poéticos que se definen en el proceso de aparecer y desparecer en el espacio. Su enseñanza se opone al reduccionismo de la arquitectura al cuerpo inerte de sus edificaciones y se levanta, en nombre de la poesía, en contra de la mercantilización del habitar humano. </br>La exposición está enfocada en el acto poético como práctica pedagógica y la experiencia lúdica colectiva como modo de aprendizaje arquitectónico.</p></br>     
             <div class='margen-ver-mas'>
               <a href='noticia-dest.html'><i class='icn icn-mas icono-mas icn-lg rojo-claro'></i></a>
             </div>  
