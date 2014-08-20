@@ -132,7 +132,7 @@ title: Archivo Histórico JVA
             </div><!-- fin noticia-chica -->
           </a> 
         </div>
-        <div class='col-lg-4 col-md-4 col-md-offset-2 col-sm-12 col-xs-12'>
+        <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
           <a href='http://vimeo.com/escuela/albums' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Constel</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
