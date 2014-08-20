@@ -13,7 +13,7 @@ title: Archivo Histórico JVA
       </ol> 
       <div class="carousel-inner"> 
         <div class="item active imagen-carousel"> <!-- 1er slide -->
-          <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-carousel/bienaldis-4.jpg" title="Publicaciones recientes"> 
+          <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-carousel/maquina-digitalizadora.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
             <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i> EX bie 10 - IV Bienal de Diseño - Chile se diseña (faenas escuela) - 10</p> 
           </div> 
@@ -96,7 +96,7 @@ title: Archivo Histórico JVA
             </div>
             <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-soundcloud-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Archivo de la Palabra</h6>
-              <p>Lo que hemos llamado el archivo de la palabra, con los audios de clases, presentaciones, seminarios, etc. que se pueden oír directamente online. Los archivos más antiguos, disponibles hasta ahora, datan de 1979. </p>  
+              <p>Lo que hemos llamado el Archivo de la palabra, son los audios de clases, presentaciones, seminarios, etc. que se pueden oír directamente online. Los archivos más antiguos, disponibles hasta ahora, datan de 1979. </p>  
             </div><!-- fin noticia-chica -->
           </a>       
         </div>            
@@ -117,7 +117,7 @@ title: Archivo Histórico JVA
           </a> 
         </div> 
         <div class='col-lg-4 col-md-4 col-md-offset-2 col-sm-12 col-xs-12'>
-          <a href='http://vimeo.com/escuela/albums' class='bloque-enlace portada categoria-especifica'>
+          <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong#Colecci.C3.B3n_Documentos' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
               <p class='seguir-leyendo'>Ir a Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -128,12 +128,12 @@ title: Archivo Histórico JVA
               </div>
               <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Colección Documentos</h6>
-              <p> Los videos versan sobre actos, travesías y también clases, vida universitaria y actividades académicas. Este espacio se complementa con registros del Taller de Amereida que publica material desde 2006 en adelante. </p>  
+               <p> Está constituida por cientos de cartas, artículos, escritos, fichas, legajos, actas, etc. que la Escuela conserva. Las más antiguas, hasta ahora encontradas, datan de 1937, es decir aún antes de la refundación. </p> 
             </div><!-- fin noticia-chica -->
           </a> 
         </div>
         <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
-          <a href='http://vimeo.com/escuela/albums' class='bloque-enlace portada categoria-especifica'>
+          <a href='http://wiki.ead.pucv.cl/index.php/Biblioteca_Con%C2%A7tel' class='bloque-enlace portada categoria-especifica'>
             <p class='seguir-leyendo'>Ir a Constel</p><p class='seguir-leyendo ver-mas'>+</p>
             <div class='seguir-leyendo-cuadro'>
               <p class='seguir-leyendo'>Ir a Constel</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -144,7 +144,7 @@ title: Archivo Histórico JVA
               </div>
               <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel-lig icn-lg blanco recuadro-icn'></i></div>
               <h6 class='rojo-claro'>Biblioteca Constel</h6>
-              <p> Los videos versan sobre actos, travesías y también clases, vida universitaria y actividades académicas. Este espacio se complementa con registros del Taller de Amereida que publica material desde 2006 en adelante. </p>  
+              <p> Biblioteca compuesta de “textos fundamentales” de la escuela que conforman el horizonte fundacional y naturaleza artística de este contenido que posibilita, primeramente, establecer una relación con la poesía.</p>  
             </div><!-- fin noticia-chica -->
           </a> 
         </div> 
