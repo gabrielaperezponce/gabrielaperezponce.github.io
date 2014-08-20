@@ -65,7 +65,7 @@ title: Archivo Histórico JVA
   </div>
   <div class='wrap'>
     <div class='seccion'>
-      <h3>Colecciones en línea</h3>
+      <h3><i class= 'icn icn-biblioteca-lig icn-lg recuadro-icn'></i>Colecciones en línea</h3>
     </div>
     <div class='fila'>            
       <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
@@ -152,7 +152,7 @@ title: Archivo Histórico JVA
     </div>
     <div class='wrap'> <!--  Inicio Álbumes destacados -->    
       <div class='seccion'>
-        <h3><i class="icn icn-estrella-l icn-lg"></i> Destacados</h3>
+        <h3><i class="icn icn-marcador-lig icn-lg"></i> Destacados</h3>
       </div>
       <div class='fila'>
         <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
@@ -249,7 +249,7 @@ title: Archivo Histórico JVA
     <div class='fondo-blanco'>
       <div class='wrap'>
         <div class='seccion'>
-          <h3><i class="icn icn-ampolleta icn-lg"></i>Archivo en el mundo</h3>
+          <h3>Archivo en el mundo</h3>
         </div>
         <div class='fila'> <!-- Noticia destacada -->
           <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
@@ -322,7 +322,7 @@ title: Archivo Histórico JVA
     </div>
     <div class='wrap'><!-- Inicio noticias varias -->
       <div class='seccion'>
-        <h3><i class="icn icn-noticias icn-md"></i> Noticias</h3>
+        <h3><i class="icn icn-noticias-lig icn-md"></i> Noticias</h3>
       </div>
       <div class='fila'>
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
