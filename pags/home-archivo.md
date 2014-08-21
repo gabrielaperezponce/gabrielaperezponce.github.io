@@ -25,7 +25,7 @@ title: Archivo Histórico JVA
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 2do slide -->
-          <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-archivo/maquina-digitalizadora.jpg" title="Noticias"> 
+          <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-archivo/MDGF-brazo-mecanico-croquis-010.jpg" title="Noticias"> 
           <div class='pie-de-foto'> 
             <p class='centrado'><i class="icn icn-noticia-lig icn-lg"></i> Maquina digitalizadora de grandes formatos</p> 
           </div> 
