@@ -111,7 +111,7 @@ title: Archivo Histórico JVA
                                               <h6>Encargado mayor del archivo</h6>
                                             </div>
                                             <div class='resena-docente historia'>
-                                              <p class='pizarra'> Diseñador Gráfico, Encuadernador, Conservador y </br>Restaurador del Archivo.</p>
+                                              <p class='pizarra'> Diseñador Gráfico, Encuadernador, Conservador  y </br>Restaurador del Archivo.</p>
                                               </br>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> a.espinoza@ead.pucv.cl</h6>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
@@ -127,7 +127,7 @@ title: Archivo Histórico JVA
                                               <h6>Fotógrafo del archivo</h6>
                                             </div>
                                             <div class='resena-docente historia'>
-                                              <p class='pizarra'> Doctor en Arquitectura, docente y Jefe de Investigación e[ad]</br>.Actualmente es el fotógrafo de la escuela.</p>
+                                              <p class='pizarra'> Doctor en Arquitectura, docente y Jefe de Investigación e[ad].</br>Actualmente es el fotógrafo de la escuela.</p>
                                               </br>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> ivan.ivelic@arquitecturaucv.cl</h6>
                                               <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
