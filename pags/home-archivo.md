@@ -237,7 +237,7 @@ title: Archivo Histórico JVA
                           <div class='prev-imagen sm'>
                             <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
                           </div>
-                          <h6 class='rojo-claro'>Taller de Amereida en Soundcloud</h6>
+                          <h6 class='rojo-claro'>Nuevos audios en Soundcloud</h6>
                           <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
                           <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
                           <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
