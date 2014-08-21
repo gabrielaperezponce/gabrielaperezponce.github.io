@@ -327,7 +327,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
           <div class='noticia-chica'>
-            <a href='/pags/noticia_archivo' class='bloque-enlace portada categoria-especifica'>
+            <a href='{{ site.baseurl }}/pags/noticia_archivo' class='bloque-enlace portada categoria-especifica'>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <div class='seguir-leyendo-cuadro'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
