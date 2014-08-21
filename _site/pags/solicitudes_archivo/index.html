@@ -137,75 +137,99 @@
               </div><!-- fin col-lg-12 -->
             </div>
           </div>
-            <div class='fondo-blanco'>
-              <div class='contenedor-sin-relleno'>
-                <div class='fila'>
-                  <div class="col-lg-12 oculto-xs">
-                    <ul id="breadcrumb">
-                      <li><a href="#"><i class="icn icn-hogar-l icn-md"></i></a></li>
-                      <li><a href="#"> Solicitudes </a></li>
-                    </ul>
+          <div class='fondo-blanco'>
+            <div class='alto-lg'>
+              <div data-ride="carousel" class="carousel slide" id="carousel-example-generic"> 
+                <div class="carousel-inner"> 
+                  <div class="item active imagen-carousel"> <!-- 1er slide -->
+                    <img class='altura-maxima' alt="First slide" src="/img/img-archivo/IMG_3131.JPG"> 
+                  </div>   
+                </div> <!-- fin carousel inner -->
+              </div>  <!-- fin datos-carousel -->
+            </div>
+            <div class='fila'>
+              <div class='fondo-blanco'>
+                <div class='wrap'>
+                  <div class='historia'>
+                    <h1 class='rojo-claro'>Modalidades</h1>
+                    <h4 class='subtitulo'>SOLICITUD DE CONTENIDOS</h4>
+                    <div class='bloque'>
+                      <article class="h-entry especifico">
+                        <div class="e-content p-summary p-name">
+                          <div class='bloque'>
+                            <p class='pizarra italica'>Las consultas al Archivo tienen dos modalidades: </p>
+                            <p>La primera es la consulta directa en las dependencias del Archivo. Estas se realizan previa cita; para que el personal del Archivo prepare la consulta del material solicitado. Estas visitas o consultas son en promedio 20 personas mensuales. </p>
+                            <p>La segunda modalidad es la consulta on line y vía e-mail. El Archivo mantiene presencia en diferentes sitios web. Mantiene una muestra permanente en Flickr, donde periódicamente y a medida que se digitalizan, se van publicando las colecciones y fondos fotográficos. Estas colecciones son consultables, a través de motores de búsqueda, con metadatos como lugares georeferenciados, palabras claves, tags o keywords (que describen lugares, personas, actividades, obras, etc.). Actualmente hay alrededor de 23.000 imágenes disponibles, expuestas y disponibles con Creative Commons. Los investigadores pueden ser autorizados a través de una clave especial y temporal para descargar imágenes en distintos tamaños. </p>
+                          </div>
+                        </div>
+                      </article> 
+                    </div>
+                  </div>
+                  <div class='historia'>
+                    <h1 class='rojo-claro'>Convenios y servicios</h1>
+                    <h4 class='subtitulo'>Sobre el uso y reproducción del material</h4>
+                    <div class='bloque'>
+                      <article class="h-entry especifico">
+                        <div class="e-content p-summary p-name">
+                          <div class='bloque'>
+                            <p class='pizarra italica'>Para el uso de reproducciones de originales en los formatos que sea, positivos, negativos, diapositivas, digitalizaciones, etc. se debe definir un convenio entre las partes que fije los posibles usos y restricciones del material de archivo, como la correcta especificación de las fuentes de origen.</p>
+                            <p>El Archivo firma un convenio con quienes deseen y soliciten utilizar sus contenidos. Este Convenio especifica que “la consulta de imágenes disponibles en formato digital está abierta a alumnos, profesores, investigadores, etc. y no tiene costo, salvo investigaciones especificas en archivos no digitales fuera de los catálogos que permiten su fácil ubicación.</p> 
+                            <p>La adquisición de imágenes tiene costo según el formato o la resolución, y esta prohibida su reproducción o publicación sin permiso por escrito del Archivo Fotográfico y en caso de estar autorizado se deben citar las fuentes de autor y propiedad intelectual.</p>
+                            <p>Gestiones de búsqueda, selección, etc. de material especial en formatos no digitales tiene costo y esta sujeto a evaluación según la magnitud del proyecto y cantidad de material.</p>
+                            <p>El archivo fotográfico presta servicios profesionales, para la reproducción de originales, para lo cual se deben definir los formatos de salida o resoluciones en caso de archivos digitales.El costo de los servicios esta sujeto a evaluación según sea la magnitud del trabajo y el formato de las reproducciones.</p>                             
+                            <h6 class='gris-oscuro'>Otros servicios:</h6>
+                            <ol>
+                              <li>Restauración de originales, libros, revistas, carpetas, planos, etc.</li>
+                              <li> Empastes y encuadernaciones especiales.</li>
+                            </ol> 
+                            <a href="#">Descargar documento convenio (pdf)<i class="icn icn-mano-abajo-lig icn-lg"></i></a>
+                            <p class='pizarra italica'>Todo el material del Archivo Histórico José Vial Armstrong está protegido con derechos de autor y el uso del material debe atender a las siguientes condiciones:</p>
+                            <p>1.- Estará permitido copiar, mostrar y reproducir los archivos incluidos en este proyecto sólo para los trabajos de edición y publicación del proyecto. </p>
+                            <p>2.- Estará permitido mostrar y reproducir los archivos incluidos en este proyecto únicamente con fines no comerciales.</p>
+                            <p>3.- Estará permitido mostrar y reproducir los archivos incluidos en este proyecto, únicamente como copias exactas de dichos archivos, y no obras derivadas que estén basadas en ella. Los archivos no pueden ser usados en ningún otro proyecto que no esté estrictamente especificado en este convenio.</p>
+                            <h4 class='rojo-claro'>Solicitar material al archivo</h4>             
+                            <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 margen-superior'>
+                              <form class='md'> 
+                                <div class='grupo obligatorio'>
+                                  <label>Nombre</label>
+                                  <input type='email' class='relleno-formulario' required/>
+                                </div>
+                                <div class='grupo obligatorio'>
+                                  <label>Correo electrónico</label>
+                                  <input type='email' class='relleno-formulario' required/>
+                                </div>
+                                <div class='grupo'>
+                                  <label>Código del material</label>
+                                  <input type='email' class='relleno-formulario' placeholder="ej:  AC fco 98 - Acto de San francisco - 18" required/>
+                                </div>
+                                <div class='grupo'>
+                                  <label class='pregunta'>Categoría del contenido</label>
+                                  <select>
+                                    <option>Fotografía</option>
+                                    <option>Video</option>
+                                    <option>Audio</option>
+                                    <option>Documento</option>
+                                    <option>Planimetría</option>
+                                    <option>Otro</option>
+                                  </select>
+                                </div>
+                                <div class='grupo'>
+                                  <label>Detalle solicitud</label>
+                                  <textarea></textarea>
+                                </div>
+                              </form>
+                              <a class="btn btn-md btn-accion derecha">Enviar</a>
+                              </div>
+                            </div>
+                          </div>
+                        </article> 
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-              <div class='fondo-blanco'>
-                <div class='wrap'>
-                  <div class='fila'> <!-- labor -->
-                    <div class='col-lg-5 col-md-6 col-sm-12 col-xs-12 margen-superior'>
-                      <h6 class='gris-oscuro'>Modalidades</h6>
-                      <h2 class='rojo-claro fina margen-inferior'>Solicitud de contenidos</h2>
-                      <p class='s'>El Archivo firma un convenio con quienes deseen y soliciten utilizar sus contenidos. Este Convenio especifica que la consulta de imágenes disponibles en formato digital está abierta a alumnos, profesores, investigadores, etc. y no tiene costo, salvo investigaciones especificas en archivos no digitales fuera de los catálogos que permiten su fácil ubicación.</p>
-                      <p>La adquisición de imágenes tiene costo según el formato o la resolución, y esta prohibida su reproducción o publicación sin permiso por escrito del Archivo Fotográfico y en caso de estar autorizado se deben citar las fuentes de autor y propie- dad intelectual.</p>
-                      <p>Gestiones de búsqueda, selección, etc. de material especial en formatos no digitales tiene costo y esta sujeto a evaluación según la magnitud del proyecto y cantidad de material.
-                      Para el uso de reproducciones de originales en los formatos que sea, positivos, negativos, diapositivas, digitalizaciones, etc. se debe definir un convenio entre las partes que fije los posibles usos y restricciones del material de archivo, como la correcta especificación de las fuentes de origen.</p>
-                      <p>El archivo fotográfico presta servicios profesionales, para la reproducción de originales, para lo cual se deben definir los formatos de salida o resoluciones en caso de archivos digitales.
-                      El costo de los servicios esta sujeto a evaluación según sea la magnitud del trabajo y el formato de las reproducciones.
-                      Todo el material del Archivo Histórico José Vial Armstrong está protegido con derechos de autor y el uso del material de- be atender a las siguientes condiciones.
-                      Estará permitido copiar, mostrar y reproducir los archivos incluidos en este proyecto sólo para los trabajos de edición y publicación del proyecto.</p> 
-                      <p>Estará permitido mostrar y reproducir los archivos incluidos en este proyecto únicamente con fines no comerciales.
-                      Estará permitido mostrar y reproducir los archivos incluidos en este proyecto, únicamente como copias exactas de dichos archivos, y no obras derivadas que estén basadas en ella. Los archivos no pueden ser usados en ningún otro proyecto que no esté estrictamente especificado en este convenio.</p>  
-                    </div> 
-                    <div class='col-lg-6 col-lg-offset-1 col-md-6 col-sm-12 col-xs-12 margen-superior'>
-                      <div class='prev-imagen sm'>
-                       <img class='ancho-maximo' src='/img/img-archivo/IMG_3131.JPG'>
-                      </div>
-                      <form class='md'>
-                        <legend class="rojo-claro">Solicitar material</legend>    
-                          <div class='grupo obligatorio'>
-                            <label>Nombre</label>
-                            <input type='email' class='relleno-formulario' required/>
-                          </div>
-                          <div class='grupo obligatorio'>
-                            <label>Correo electrónico</label>
-                            <input type='email' class='relleno-formulario' required/>
-                          </div>
-                          <div class='grupo'>
-                            <label>Código del material</label>
-                            <input type='email' class='relleno-formulario' placeholder="ej:  AC fco 98 - Acto de San francisco - 18" required/>
-                          </div>
-                          <div class='grupo'>
-                            <label class='pregunta'>Categoría del contenido</label>
-                            <select>
-                              <option>Fotografía</option>
-                              <option>Video</option>
-                              <option>Audio</option>
-                              <option>Documento</option>
-                              <option>Planimetría</option>
-                              <option>Otro</option>
-                           </select>
-                          </div>
-                          <div class='grupo'>
-                            <label>Detalle solicitud</label>
-                            <textarea></textarea>
-                          </div>
-                      </form>
-                      <a class="btn btn-md btn-accion derecha">Enviar</a>
-                    </div>
-                  </div>      
-                </div> 
             </div>
-          </div>  <!-- fin pag ancho total-->
-        </div> 
+          </div>
       <footer>
       <div class='wrap-footer'>
         <div class='fila'>
