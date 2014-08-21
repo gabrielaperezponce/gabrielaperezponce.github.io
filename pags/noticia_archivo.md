@@ -13,13 +13,11 @@ title: Archivo Histórico JVA
     </div>
   </div>
 </div>
-<div class='fondo-negro'>
-  <div class='wrap'>
+<div class='wrap'>
     <h1 class="entry-title especifico">Máquina digitalizadora de grandes formatos gana Concurso de Ideas Innovadoras de Funcionarios</h1>
-    <aside class='entry-details blanco'>publicado el día 26 de Junio, por Francesca Cambiaso</aside>
+    <aside class='entry-details gris'>publicado el día 26 de Junio, por Francesca Cambiaso</aside>
     <aside class='categorias'>Categorías: <a href='#'>[ Archivo Histórico ]</a> <a href='#'>[ Concurso ]</a></aside>
   </div>
-</div>
 <div class='fondo-blanco'>
   <div class='wrap'>
     <div class='fila'>
