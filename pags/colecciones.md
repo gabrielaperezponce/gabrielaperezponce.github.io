@@ -223,7 +223,7 @@ title: Archivo Histórico JVA
                 <p>El Archivo resguarda todo el material académico y artístico producido por los profesores fundadores de nuestra Escuela, desde 1952. Está compuesta por piezas individuales y series. Es así como, por ejemplo, a la muerte del arquitecto y profesor Fabio Cruz Prieto, su familia entregó al Archivo todos los cuadernos de apuntes, dibujos, proyectos y reflexiones, que el profesor Cruz tuvo durante casi 50 años. Este material constituye la Serie Fabio Cruz. Así mismo, el Archivo ya resguarda el material producido por el profesor Miguel Eyquem y una parte importante de la producción del arquitecto y profesor Alberto Cruz C. También los cuadernos de viaje de José Vial. </p>
                 <h2 id="title_1213"class='rojo-claro'>Catálogo del archivo</h2>
                 <p>El Archivo cuenta con una lista ordenada de las colecciones y álbumes temáticos disponibles en línea, en sus distintas plataformas. Dicha lista esta presentada en la wiki Casiopea de nuestra escuela, pudiendo ser consultada antes para la solictud de material o previa visita a nuestras dependencias.</p>
-                                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#OBRAS'><h4 class='subtitulo rojo-claro altas'>I. Obras</h4></a>
+                <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#OBRAS'><h4 class='subtitulo rojo-claro altas'>I. Obras</h4></a>
                       <ol >
                         <li value="1">1.Iglesias del Sur A</li>
                         <li value="1">2.Comunidades Religiosas 2A</li>
@@ -319,10 +319,10 @@ title: Archivo Histórico JVA
                         <li value='10'>2.Talleres de la Representación TR</li>
                         <li value='10'>3.Cursos del Espacio CE</li>
                       </ol>
-                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#TRAVES.C3.8DAS'><h4 class='subtitulo rojo-claro altas'>V. Travesías</h4></a>
-                    </div>
+                    <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#TRAVES.C3.8DAS'><h4 class='subtitulo rojo-claro altas'>V. Travesías</h4></a>
                 </div>
             </div>
-        </div> 
-    </div>
-</div> 
+        </div>
+    </div> 
+</div>
+</div>
