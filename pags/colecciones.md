@@ -49,6 +49,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6>CAA ini 12 - Acto inicio Cultura del Cuerpo</h6>
                                 <aside class='entry-details'>Publicado el 22 de marzo, 2012</aside>
+                                <p class='extracto-descriptivo'>Arenas de Ciudad Abierta. Recepción poética en las arenas de la Ciudad Abierta a los participantes de la Cultura del Cuerpo.</p>
                             </a>
                         </div>
                     </div> 
@@ -64,6 +65,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6> CAA est 92 - Acto de los Estorninos</h6>
                                 <aside class='entry-details'>Publicado el 09 de julio, 2010</aside>
+                                <p class='extracto-descriptivo'>Acto con el poema "Estorninos", de Godofredo Iommi, en la inauguración de la Exposición de los 40 años de la Escuela de Arquitectura y Diseño.</p>
                             </a>
                         </div>
                     </div>
@@ -79,6 +81,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6>CAA sol 84 - (vhs1) Juego de los 4 soles</h6>
                                 <aside class='entry-details'>Publicado el 02 de mayo, 2013</aside>
+                                <p class='extracto-descriptivo'>Recepción poética en las arenas de la Ciudad Abierta a los participantes de la Cultura del Cuerpo. <!-- Con la participación del violinista alemán Johannes Haase. --></p>
                             </a>
                         </div><!-- fin noticia-chica -->
                     </div><!-- fin columna -->
@@ -99,6 +102,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6>CL Ame 14 - T2 Clase 1 Jaime Reyes, Carlos Covarrubias</h6>
                                 <aside class='entry-details'>Publicado el 26 de junio, 2014</aside>
+                                <p class='extracto-descriptivo'>Primera clase del Taller de Amereida. 2º Trimestre. Ciudad Abierta. </br>Jaime Reyes y Carlos Covarrubias.</p>
                             </a>
                         </div><!-- fin noticia-chica -->
                     </div><!-- fin columna -->
@@ -114,6 +118,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6> CL ame 14 - t1 clase 1 varios docentes, clase 1 a 8</h6>
                                 <aside class='entry-details'>Publicado el 07 de marzo, 2014</aside>
+                                <p class='extracto-descriptivo'>Primera clase del Taller de Amereida 2014, para los cursos superiores, realizada en las arenas de la Ciudad Abierta de Ritoque.</p>
                             </a>
                         </div><!-- fin noticia-chica -->
                     </div><!-- fin columna -->
@@ -140,6 +145,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6 class='rojo-claro'>Cuadernillo Casa Olivetti</h6>
                                 <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                                <p class='extracto-descriptivo'>Colección de documentos proyecto de casa para los gerentes de Olivetti S.A. en Lo Curro, Santiago. Arquitectos: Alberto Cruz y Miguel Eyquem.</p>
                             </div><!-- fin noticia-chica --> 
                         </a>      
                     </div>
@@ -155,6 +161,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6 class='rojo-claro'>Documentos Diseño Gráfico</h6>
                                 <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                                 <p class='extracto-descriptivo'>El texto de este cuadernillo ha sido transcrito de una grabación magnetofónica de la clase dictada el 20 de Marzo de 1983 en la Escuela de Arquitectura UCV. Se ha mantenido la sintaxis espontánea del discurso, puesto que ésta da mayor fuerza y énfasis al mismo, que una nueva redacción.</p>
                             </div><!-- fin noticia-chica --> 
                         </a>      
                     </div>
@@ -175,6 +182,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6 class='rojo-claro'>VI tit 56 - Planos proyecto título José Vial </h6>
                                 <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                                <p class='extracto-descriptivo'>Planos del proyecto de título del alumno José Vial A. Profesor Sergio Larraín GM. Lago Buenos Aires, Patagonia. Unidad Agrícola.</p>
                             </div><!-- fin noticia-chica --> 
                         </a>      
                     </div>
@@ -190,6 +198,7 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6 class='rojo-claro'>D san 09 - Casa Jorge Sánchez</h6>
                                 <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                                <p class='extracto-descriptivo'>Planos del proyecto construcción de casa del Sr. Jorge Sánchez en Santiago.</p>
                             </div><!-- fin noticia-chica --> 
                         </a>      
                     </div>
@@ -205,19 +214,115 @@ title: Archivo Histórico JVA
                                 </div>
                                 <h6 class='rojo-claro'>D jea 56 - Casa Jean Mermoz </h6>
                                 <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
+                                <p class='extracto-descriptivo'>Planos del proyecto construcción de casa del Jean Mermoz, construida por el arquitecto, fundador y profesor de la e[ad] Fabio Cruz en Santiago.</p>
                             </div><!-- fin noticia-chica --> 
                         </a>      
                     </div>
                 </div>
                 <h2 id="title_1212" class='rojo-claro'>Colección Fundadores</h2>
                 <p>El Archivo resguarda todo el material académico y artístico producido por los profesores fundadores de nuestra Escuela, desde 1952. Está compuesta por piezas individuales y series. Es así como, por ejemplo, a la muerte del arquitecto y profesor Fabio Cruz Prieto, su familia entregó al Archivo todos los cuadernos de apuntes, dibujos, proyectos y reflexiones, que el profesor Cruz tuvo durante casi 50 años. Este material constituye la Serie Fabio Cruz. Así mismo, el Archivo ya resguarda el material producido por el profesor Miguel Eyquem y una parte importante de la producción del arquitecto y profesor Alberto Cruz C. También los cuadernos de viaje de José Vial. </p>
-                <h5>Últimos archivos</h5>
                 <h2 id="title_1213"class='rojo-claro'>Catálogo del archivo</h2>
                 <p>El Archivo cuenta con una lista ordenada de las colecciones y álbumes temáticos disponibles en línea, en sus distintas plataformas. Dicha lista esta presentada en la wiki Casiopea de nuestra escuela, pudiendo ser consultada antes para la solictud de material o previa visita a nuestras dependencias.</p>
-                <h5>Ver catálogo en Casiopea</h5>
+                                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#OBRAS'><h4 class='subtitulo rojo-claro altas'>I. Obras</h4></a>
+                      <ol >
+                        <li value="1">1.Iglesias del Sur A</li>
+                        <li value="1">2.Comunidades Religiosas 2A</li>
+                        <li value="1">3.Seccionales B</li>
+                        <li value="1">4.Urbanismo C</li>
+                        <li value="1">5.Obras Enseñanza P</li>
+                        <li value="1">6.Edificios-Viviendas D</li>
+                        <li value="1">7.Obras Generales F</li>
+                        <li value="1">8.Obras Diseño Industrial FDI</li>
+                        <li value="1">9.Obras Diseño Gráfico FDG</li>
+                        <li value="1">10.Reparaciones Casa Escuela E</li>
+                        <li value="1">11.Planimetrías PLA</li> 
+                      </ol>                     
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#ACTIVIDADES'><h4 class='subtitulo rojo-claro altas'>II. Actividades</h4></a>
+                      <ol>
+                        <li value='2'>1.Exposiciones Generales EX</li>
+                        <li value='2'>2.Exposiciones Claudio Girola EG</li>
+                        <li value='2'>3.Exposiciones Diseño Gráfico ED</li>
+                        <li value='2'>4.Exposiciones Diseño Industrial EDI</li>
+                        <li value='2'>5.Clases y Asignaturas CL</li>
+                        <li value='2'>6. Seminario del Ámbito SA</li>
+                        <li value='2'>7. Phalènes-Actos Poéticos PH-AP</li>
+                      </ol>
+                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#CIUDAD_ABIERTA'><h4 class='subtitulo rojo-claro altas'>III. Ciudad Abierta</h4></a>
+                      <ol>
+                        <li value='3'>1.Documentos CAD</li>
+                        <li value='3'>2.Phalène CAP</li>
+                        <li value='3'>3.Actos CAA</li>
+                        <li value='3'>4.Obras CAO</li>
+                        <li value='3'>5.Esculturas CAE</li>
+                        <li value='3'>6. Proyectos de títulos CAT</li>
+                        <li value='3'>7. Estudios, talleres de obra CAS</li>
+                        <li value='3'>8. Vida Ciudad Abierta CAV</li>
+                        <li value='3'>9. Corporación Cultural Amereida CAC</li>
+                      </ol>
+                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#VIDA_UNIVERSITARIA'><h4 class='subtitulo rojo-claro altas'>IV. Vida Universitaria</h4></a>
+                      <ol >
+                        <li value="4">1.Vida Instituto VI</li>
+                        <li value="4">2.Vida Escuela VE</li>
+                        <li value="4">3.Actos AC</li>
+                        <li value="4">4.Torneos y Cultura del Cuerpo TOR</li>
+                        <li value="4">5.Esculturas Claudio Girola CG</li>
+                        <li value="4">6.Pinturas F. Méndez FM</li>
+                        <li value="4">7.Esculturas José Balcells JB</li>
+                        <li value="4">8.Reforma Universitaria RU</li>
+                        <li value="4">9.Viajes VA</li>
+                        <li value="4">10.Documentos DOC</li>
+                        <li value="4">11.Televisión TV</li> 
+                      </ol>                     
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#CATASTROS'><h4 class='subtitulo rojo-claro altas'>V. Catastros</h4></a>
+                      <ol>
+                        <li value='5'>1.Valparaíso Catastro VC</li>
+                        <li value='5'>2.Valparaíso Catastro Antiguo VCA</li>
+                        <li value='5'>3.Otras Ciudades Catastro OCC</li>
+                        <li value='5'>4.Terremotos TE</li>
+                      </ol>
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#ESTUDIOS'><h4 class='subtitulo rojo-claro altas'>VI. Estudios</h4></a>
+                      <ol>
+                        <li value='6'>1.Estudios en General ES</li>
+                        <li value='6'>2.Estudios Escuela Naval EN</li>
+                        <li value='6'>3.Estudios Urbanos EU</li>
+                        <li value='6'>4.Estudio de liturgia EL</li>
+                        <li value='6'>5.Estudio de turismo ET</li>
+                      </ol>
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#TE.C3.93RICOS'><h4 class='subtitulo rojo-claro altas'>VII. Teóricos</h4></a>
+                      <ol >
+                        <li value="7">1.Presentación a la Arquitectura PRE</li>
+                        <li value="7">2.Seminario de Urbanismo SU</li>
+                        <li value="7">3.Construcción CO</li>
+                        <li value="7">4.Estructuras ES</li>
+                        <li value="7">5.Cultura del Cuerpo CC</li>
+                        <li value="7">6.Reproducciones Arquitectura REA</li>
+                        <li value="7">7.Taller de América TA</li>
+                        <li value="7">8.Música de las Matemáticas MM</li>
+                        <li value="7">9.Laboratorios Magíster Náutico & Marítimo MNM</li>
+                        <li value="7">10.Seminarios SO</li>
+                      </ol>                     
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#DISE.C3.91O_GR.C3.81FICO'><h4 class='subtitulo rojo-claro altas'>VII. Diseño Gráfico</h4></a>
+                      <ol>
+                        <li value='8'>1.Diseños DG</li>
+                        <li value='8'>2.Diseños-Talleres DTG</li>
+                        <li value='8'>3.Reproducciones Diseño Gráfico RG</li>
+                      </ol>
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#DISE.C3.91O_INDUSTRIAL'><h4 class='subtitulo rojo-claro altas'>VIII. Diseño Industrial</h4></a>
+                      <ol>
+                        <li value='9'>1.Diseños DI</li>
+                        <li value='9'>2.Diseños-Talleres DTI</li>
+                        <li value='9'>3.Reproducciones Diseño Industrial RI</li>
+                      </ol>
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#ARQUITECTURA'><h4 class='subtitulo rojo-claro altas'>IX. Arquitectura</h4></a>
+                      <ol>
+                        <li value='10'>1.Talleres-Maquetas AT</li>
+                        <li value='10'>2.Talleres de la Representación TR</li>
+                        <li value='10'>3.Cursos del Espacio CE</li>
+                      </ol>
+                      <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial:_Cat%C3%A1logo#TRAVES.C3.8DAS'><h4 class='subtitulo rojo-claro altas'>V. Travesías</h4></a>
+                    </div>
+                </div>
             </div>
-        </div>
+        </div> 
     </div>
-</div> 
-</div>
 </div> 
