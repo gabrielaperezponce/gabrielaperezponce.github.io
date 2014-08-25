@@ -11,12 +11,14 @@ title: Archivo Histórico JVA
         <form class='md'> 
           <div class='grupo obligatorio'>
             <label>Nombre</label>
-            <input type='email' class='relleno-formulario' required/>
+            <input type='email' class='relleno-formulario pizarra' required/>
           </div>
+          </br>
           <div class='grupo obligatorio'>
             <label>Correo electrónico</label>
             <input type='email' class='relleno-formulario' required/>
           </div>
+          </br>
           <div class='grupo'>
             <label>Mensaje</label>
             <textarea></textarea>
@@ -24,17 +26,16 @@ title: Archivo Histórico JVA
         </form>
         <a class="btn btn-md btn-accion derecha">Enviar</a>   
         </br>                  
-        <h2 class="rojo-claro margen-superior"><i class="icn icn-movil-lig icn-md gris-oscuro"></i>Teléfono</h2>
+        <h2 class="rojo-claro margen-superior">Teléfono</h2>
         <p>Teléfono +56 32 2274403 <br>
         Fax +56 32 2274421</p>
+        <h2 class="rojo-claro margen-superior"> Cód. Postal:</h2>
+        <p>2580129, Casilla 4170 V2 Valparaíso</p>
       </div>
       <div class='col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12'>
-        <h2 class="rojo-claro"><i class="icn icn-mapa-lig icn-md gris-oscuro"></i>Ubicación</h2>
-        <h6>Escuela de Arquitectura y Diseño</h6>
-        <h6>Pontificia Universidad Católica de Valparaíso</h6>
-        <p class='margen-inferior'>Matta 12, Recreo, Viña del Mar, Chile.<br>
-          <iframe style="border:0" src="https://www.google.com/maps/embed/v1/place?q=calle%20matta%2012%2C%20recreo&amp;key=AIzaSyCZiilPUQ_vIqpLmZk_H_2sCcihjCBdwwE" frameborder="0" height="450px" width="100%"></iframe> 
-        </p>
+        <h2 class="rojo-claro">Ubicación</h2>
+        <p>Escuela de Arquitectura y Diseño </br> Pontificia Universidad Católica de Valparaíso<br> Matta 12, Recreo, Viña del Mar, Chile.</p>
+        <iframe style="border:0" src="https://www.google.com/maps/embed/v1/place?q=calle%20matta%2012%2C%20recreo&amp;key=AIzaSyCZiilPUQ_vIqpLmZk_H_2sCcihjCBdwwE" frameborder="0" height="550px" width="100%"></iframe> 
       </div>
     </div>
   </div><!-- fin wrap -->
