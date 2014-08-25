@@ -15,7 +15,7 @@ title: Archivo Histórico JVA
         <div class="item active imagen-carousel"> <!-- 1er slide -->
           <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-archivo/penser-const.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
-           <p class='centrado'><i class="icn icn-estrella-lig"></i> Archivo en el mundo: Exposición en EPFL Lausanne</p> 
+           <p class='centrado'><i class="icn icn-estrella-lig icn-lg"></i> Archivo en el mundo: Exposición en EPFL Lausanne</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -27,7 +27,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 2do slide -->
           <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-archivo/MDGF-brazo-mecanico-croquis-010.jpg" title="Noticias"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-noticias-lig"></i> Maquina digitalizadora de grandes formatos</p> 
+            <p class='centrado'><i class="icn icn-noticias-lig icn-lg"></i> Maquina digitalizadora de grandes formatos</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -39,7 +39,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 3er slide -->
           <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/img-carousel/torneo-triagon.jpg" title="Últimos documentos"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-documento-lig"></i> TOR tri 04 - Torneo Triagón - 129</p>  
+            <p class='centrado'><i class="icn icn-documento-lig icn-lg"></i> TOR tri 04 - Torneo Triagón - 129</p>  
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -51,7 +51,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 4to slide -->
           <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/carousel-pub-flickr.jpg" title="Nuevo álbum en Flickr"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta-lig"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
+            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
