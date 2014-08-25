@@ -21,21 +21,17 @@ title: Archivo Histórico JVA
                     </div>
                 </div>
             </div>
-           	<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+           	 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                <i class="icn icn-imagen-lig icn-lg rojo-claro"></i>
                 <h2 id="title_2888" class='rojo-claro'>Colección fotográfica</h2>
                 <p>El Archivo cuenta con alrededor de 140.000 fotografías en diferentes formatos. La colección de negativos y diapositivas originales es guardada en hojas de clasificación de ph neutro y antihongos, en cajas metálicas adecuadas para estas funciones, en sala climatizada de acceso restringido. El material fotográfico y gráfico en general, a medida que se va escaneando, se publica en el Flickr del Archivo, ordenado en colecciones y álbumes temáticos.</p><p> Cada fotografía cuenta con información directa y en metadatos, tales como palabras claves, fechas, georeferencias, etc. Actualmente hay más de 22.000 (veintidos mil) publicadas. Los archivos más antiguos, disponibles hasta ahora, datan de 1947.</br>
                 62.000 negativos 35 mm, color y blanco y negro. 1.111 Diapositivas color. 3.727 en Papel fotográfico. Más de 80.000 fotografías digitales (estas aumentan día a día con los registros de las actividades de la Escuela de Arquitectura y Diseño y de la Ciudad Abierta). </p>
                 <h5>Últimos álbumes en Flickr</h5>
-                <a href='https://www.flickr.com/photos/archivo-escuela/sets' class='bloque-enlace portada categoria-especifica'>
-                    <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-                    <div class='seguir-leyendo-cuadro'>
-                        <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-                    </div>   
-                    <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dgaler%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dgaler%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=galer%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dgaler%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dgaler%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=galer%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
-                </a> 
+                <i class="icn icn-youtube-lig icn-lg rojo-claro"></i>
                 <h2 id="title_1858" class='rojo-claro'>Colección Audiovisual</h2>
                 <p>Las primeras filmaciones, de 2006 a 2009, fueron realizadas en formatos pequeños de 320 x 240 px o 640 x 480 px, que era lo que permitían las cámaras corrientes y los disposiitivos de almacenaje. Hoy el acopio de bytes ya no es un problema. Las grabaciones de los últimos años, por ejemplo las de 2013 están en full hd. La disponibilización de los archivos de video irá en dos direcciones: presentar al mismo tiempo los registros actuales y los que en el Archivo se vayan digitalizando y catalogando.</p><p>La mayoría de estas cintas, ya sea por el tiempo transcurrido o bien por la modalidad en que fueron grabadas, no siempre muestran una imágen de alta calidad. En el Archivo Histórico las digitalizamos en la máxima resolución que actualmente está disponible; esto es archivos en hd de 1080 dpi. Con los archivos digitales derivados directamente de la digitalización se realizan ediciones especiales para su publicación en línea a través de nuestro canal en Vimeo.</p>
-                <h5>Últimos videos en Vimeo</h5>
+                <h5 class='margen-inferior'>Últimos álbumes en Flickr<aside class='entry-details'>Publicado el 22 de marzo, 2012</aside></h5>
+                <div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='metadato rojo-claro'>CAA ini 12 - Acto inicio Cultura del Cuerpo</h6></div>
                 <div class='fila'>
                     <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
                         <div class='noticia-chica'>
