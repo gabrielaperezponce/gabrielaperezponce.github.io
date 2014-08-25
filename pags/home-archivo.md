@@ -15,7 +15,7 @@ title: Archivo Histórico JVA
         <div class="item active imagen-carousel"> <!-- 1er slide -->
           <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-archivo/penser-const.jpg" title="Publicaciones recientes"> 
           <div class='pie-de-foto'> 
-           <p class='centrado'><i class="icn icn-estrella-lig icn-lg"></i> Archivo en el mundo: Exposición en EPFL Lausanne</p> 
+           <p class='centrado'><i class="icn icn-estrella-lig"></i> Archivo en el mundo: Exposición en EPFL Lausanne</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -27,7 +27,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 2do slide -->
           <img class='altura-maxima' alt="Second slide" src="{{ site.baseurl }}/img/img-archivo/MDGF-brazo-mecanico-croquis-010.jpg" title="Noticias"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-noticias-lig icn-lg"></i> Maquina digitalizadora de grandes formatos</p> 
+            <p class='centrado'><i class="icn icn-noticias-lig"></i> Maquina digitalizadora de grandes formatos</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -39,7 +39,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 3er slide -->
           <img class='altura-maxima' alt="Third slide" src="{{ site.baseurl }}/img/img-carousel/torneo-triagon.jpg" title="Últimos documentos"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-documento-lig icn-lg"></i> TOR tri 04 - Torneo Triagón - 129</p>  
+            <p class='centrado'><i class="icn icn-documento-lig"></i> TOR tri 04 - Torneo Triagón - 129</p>  
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -51,7 +51,7 @@ title: Archivo Histórico JVA
         <div class="item imagen-carousel"> <!-- 4to slide -->
           <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/carousel-pub-flickr.jpg" title="Nuevo álbum en Flickr"> 
           <div class='pie-de-foto'> 
-            <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
+            <p class='centrado'><i class="icn icn-etiqueta-lig"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
@@ -65,7 +65,7 @@ title: Archivo Histórico JVA
   </div>
   <div class='wrap'>
     <div class='seccion'>
-      <h3><i class= 'icn icn-biblioteca-lig icn-lg recuadro-icn'></i>Colecciones en línea</h3>
+      <h3><i class= 'icn icn-biblioteca-lig recuadro-icn'></i>Colecciones en línea</h3>
     </div>
     <div class='fila'>            
       <div class='col-lg-4 col-md-4 col-sm-12 col-xs-12'>
@@ -152,104 +152,50 @@ title: Archivo Histórico JVA
     </div>
     <div class='wrap'> <!--  Inicio Álbumes destacados -->    
       <div class='seccion'>
-        <h3><i class="icn icn-marcador-lig icn-lg"></i> Destacados</h3>
+        <h3><i class="icn icn-marcador-lig"></i>Destacados</h3>
       </div>
-      <div class='fila'>
-        <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-                    <a href='http://wiki.ead.pucv.cl/index.php/Biblioteca_Con%C2%A7tel' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Ver más en Constel</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>   
-                      <div class='noticia-chica'>
-                          <div class='prev-imagen sm'>
-                            <img class='ancho-maximo' src='/img/img-archivo/Kappa_portada_web.jpg'>
-                          </div>
-                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-constel-lig icn-lg blanco recuadro-icn'></i></div>
-                          <h6 class='rojo-claro'>Oda a Kappa</h6>
-                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-                          <p>¿No te ocurre que, a veces, mientras escribes, en plena nada las palabras crecen, empujan, como si tomaran una repentina y, acaso, excesiva conciencia de sí mismas, aminorando, con ello su íntima cualidad indicativa? </p> 
-                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Poética] [ Biblioteca Constel ]</div>                 
-                      </div><!-- fin noticia-chica -->
-                    </a>
-                    </div>
-                    <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong#Colecci.C3.B3n_Documentos' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Ver más en Documentos</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>   
-                      <div class='noticia-chica'>
-                          <div class='prev-imagen sm'>
-                            <img class='ancho-maximo' src='/img/img-archivo/documento-olivetti.png'>
-                          </div>
-                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-documento-lig icn-lg blanco recuadro-icn'></i></div>
-                          <h6 class='rojo-claro'>Cuadernillo Casa Olivetti</h6>
-                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-                          <p>Colección de documentos proyecto de casa para los gerentes de Olivetti S.A. en Lo Curro, Santiago. Arquitectos: Alberto Cruz y Miguel Eyquem.</p> 
-                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Colección Documentos] [ Proyecto ]</div>
-                      </div><!-- fin noticia-chica --> 
-                      </a>      
-                    </div>
-                    <div class='col-lg-4 col-md-4 col-sm-6 col-xs-12'>
-                       <a href='http://wiki.ead.pucv.cl/index.php/Archivo_Hist%C3%B3rico_Jos%C3%A9_Vial_Armstrong' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Ver más en Casiopea</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>   
-                      <div class='noticia-chica'>
-                          <div class='prev-imagen sm'>
-                            <img class='ancho-maximo' src='/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
-                          </div>
-                          <div class='cuadro-icono fondo-rojo-claro'><i class= 'icn icn-casiopea-lig icn-lg blanco recuadro-icn'></i></div>
-                          <h6 class='rojo-claro'>Catálogo del archivo en Casiopea</h6>
-                          <aside class='entry-details'>Publicado el  09 de agosto, 2013</aside>
-                          <p>Todo el material disponibilizado se encuentra en permanente revisión y corrección, siendo así un material de trabajo y para el cual nos encontramos desarrollando medios adecuados de la publicación y disponiblización.</p> 
-                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Catálogo] [ Casiopea ]</div>
-                      </div><!-- fin noticia-chica -->  
-                    </a>
-                    </div>             
-                  <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
-                     <a href='https://www.flickr.com/photos/archivo-escuela/sets' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>             
-                            <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
-                    </a>
-                    </div>
-                    <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
-                       <a href='http://vimeo.com/album/2421492/video/13133028' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>   
-                          <iframe src="http://player.vimeo.com/video/63704078?portrait=0&amp;color=C7514D" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                       </a>
-                    </div>
-                    <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
-                       <a href='https://soundcloud.com/archivo-jose-vial-a/sets/2014-2-trimestre-amereida' class='bloque-enlace portada categoria-especifica'>
-                          <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
-                          <div class='seguir-leyendo-cuadro'>
-                            <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
-                          </div>   
-                      <div class='noticia-chica'>
-                          <div class='prev-imagen sm'>
-                            <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-                          </div>
-                          <h6 class='rojo-claro'>Nuevos audios en Soundcloud</h6>
-                          <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
-                          <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
-                          <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
-                      </div><!-- fin noticia-chica -->
-                    </a>
-                    </div>
-                  </div>
-                </div>
+      <div class='fila'>            
+        <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+          <a href='https://www.flickr.com/photos/archivo-escuela/sets' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Ver más en Flickr</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>             
+            <object width="100%" height="100%"> <param name="flashvars" value="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0"></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=es-us&page_show_url=%2Fsearch%2Fshow%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&page_show_back_url=%2Fsearch%2F%3Fq%3Dhospeder%25C3%25ADa%26w%3D44793557%2540N00%26ss%3D2&method=flickr.photos.search&api_params_str=&api_text=hospeder%C3%ADa&api_tag_mode=bool&api_user_id=44793557%40N00&api_media=all&api_sort=relevance&jump_to=&start_index=0" width="100%" height="100%"></embed></object>
+          </a>
+        </div>
+        <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+          <a href='http://vimeo.com/album/2421492/video/13133028' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Ver más en Vimeo</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>   
+            <iframe src="http://player.vimeo.com/video/63704078?portrait=0&amp;color=C7514D" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </a>
+        </div>
+        <div class='col-lg-6 col-md-4 col-sm-6 col-xs-12'>
+          <a href='https://soundcloud.com/archivo-jose-vial-a/sets/2014-2-trimestre-amereida' class='bloque-enlace portada categoria-especifica'>
+            <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+            <div class='seguir-leyendo-cuadro'>
+              <p class='seguir-leyendo'>Oir más en Soundcloud</p><p class='seguir-leyendo ver-mas'>+</p>
+            </div>   
+            <div class='noticia-chica'>
+              <div class='prev-imagen sm'>
+                <iframe width="100%" height="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/36261117&amp;color=c7514d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+              </div>
+              <h6 class='rojo-claro'>Nuevos audios en Soundcloud</h6>
+              <aside class='entry-details'>Publicado el  25 de Junio, 2014</aside>
+              <p>Clases del Taller de Amereida del segundo trimestre de 2014, en la Ciudad Abierta. Dictadas por varios docentes de la escuela, Carlos Covarrubias, Manuel Sanfuentes, Jaime Reyes, entre otros.</p> 
+              <div class='datos-pub-jva'><i class="icn icn-etiqueta icn-xs gris-oscuro texto-cuadro-des"></i>[ Taller de Amereida] [ Ciudad Abierta ] [ e[ad] ]</div> 
+            </div><!-- fin noticia-chica -->
+          </a>
+        </div>
+      </div>
+    </div>
     <div class='fondo-blanco'>
       <div class='wrap'>
         <div class='seccion'>
-          <h3>Archivo en el mundo</h3>
+          <h3><i class="icn icn-estrella-lig"></i>Archivo en el mundo</h3>
         </div>
         <div class='fila'> <!-- Noticia destacada -->
           <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12'>
@@ -322,7 +268,7 @@ title: Archivo Histórico JVA
     </div>
     <div class='wrap'><!-- Inicio noticias varias -->
       <div class='seccion'>
-        <h3><i class="icn icn-noticias-lig icn-md"></i> Noticias</h3>
+        <h3><i class="icn icn-noticias-lig"></i> Noticias</h3>
       </div>
       <div class='fila'>
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
