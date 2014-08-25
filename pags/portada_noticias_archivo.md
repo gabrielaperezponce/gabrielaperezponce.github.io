@@ -115,11 +115,11 @@ title: Archivo Histórico JVA
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 </div>
                 <div class='prev-imagen sm'>
-                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/Exposicion Santiago-04.png'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/maquina-digitalizadora.jpg'>
                 </div>
-                <h6>Charlas de la Sexta Bienal Tipos Latinos 2014</h6>
-                <aside class='entry-details'>Publicado el 10 de Junio de 2014</aside>
-                <p>Durante este martes 10 y miércoles 11 de junio se estarán llevando a cabo las charlas de la Sexta Bienal Tipos Latinos 2014, a partir de las 19.00 h en el Centro Cultural de España (Av. Providencia 927 / Metro Salvador).</p>
+                <h6>Máquina digitalizadora de grandes formatos gana Concurso de Ideas Innovadoras de Funcionarios</h6>
+                <aside class='entry-details'>Publicado el 26 de Junio de 2014</aside>
+                <p>Esta semana se dieron a conocer los resultados del Concurso de Ideas Innovadoras de Funcionarios, de la Dirección de Innovación y Emprendimiento de la PUCV, que busca “activar y potenciar la creatividad de los funcionarios administrativos”.</p>
               </a>
             </div><!-- fin noticia-chica -->
           </div><!-- fin columna -->
@@ -131,13 +131,29 @@ title: Archivo Histórico JVA
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 </div>
                 <div class='prev-imagen sm'>
-                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/noticia-4.jpg'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/juan-hernandez-edicion.png'>
                 </div>
                 <h6>"Fotografías de Valparaíso" edición de Juan Hernández</h6>
                 <aside class='entry-details'>Publicado el 24 de abril, 2014</aside>
                 <p>En el mes de diciembre, el Consejo Nacional de la Cultura y las Artes dio a conocer los resultados de las postulaciones a los Fondos de Cultura 2014, dentro de los que fueron seleccionados dos proyectos asociados a la e[ad].</p>
               </a>
             </div><!-- fin noticia-chica -->
+          </div><!-- fin columna -->          
+          <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
+            <div class='noticia-chica'>
+              <a href='#' class='bloque-enlace portada categoria-especifica'>
+                <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+                <div class='seguir-leyendo-cuadro'>
+                  <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+                </div>
+                <div class='prev-imagen sm'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/DTI-ina-13-Inauguración-Centex-R.-Lang-041.jpg'>
+                </div>
+                <h6>Centex y Diseño</h6>
+                <aside class='entry-details'>Publicado el 11 de Julio, 2014</aside>
+                <p>Este jueves 11 de julio el Centro de Extensión del Consejo de la Cultura CENTEX, reabrió sus puertas con exposiciones y talleres. En Valparaíso se realizó una sencilla ceremonia con más de un centenar de invitados y con la presencia del Ministro de Cultura Roberto Ampuero.</p>
+              </a>
+            </div><!-- fin noticia-chica -->
           </div><!-- fin columna -->
           <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
@@ -147,14 +163,14 @@ title: Archivo Histórico JVA
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 </div>
                 <div class='prev-imagen sm'>
-                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/7166249257_f8f3a5f669_k.jpg'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/farandula.jpg'>
                 </div>
-                <h6>Semana de exámenes Título 3 I trimestre 2014</h6>
-                <aside class='entry-details'>Publicado el  26 de junio, 2014</aside>
-                <p>Durante esta semana se llevarán a cabo los exámenes de Título 3  de los alumnos de Arquitectura, Diseño Gráfico y Diseño Industrial que en este primer trimestre egresan de la Escuela.</p>  
+                <h6>Exposición Farándula: Fiesta Universitaria</h6>
+                <aside class='entry-details'>Publicado el  07 de abril, 2014</aside>
+                <p>Durante esta semana se llevará a cabo una exposición fotográfica en torno a la realización de la Farándula 2014. Dicha muestra permite recorrer el quehacer de esta fiesta desde sus inicios y comprender su evolución y carácter otorgado cada año por sus participantes.</p>  
               </a>
             </div><!-- fin noticia-chica -->
-          </div><!-- fin columna -->
+          </div><!-- fin columna -->          
           <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
               <a href='#' class='bloque-enlace portada categoria-especifica'>
@@ -179,11 +195,11 @@ title: Archivo Histórico JVA
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 </div>
                 <div class='prev-imagen sm'>
-                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/vergel439.jpg'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/penser-const3.jpg'>
                 </div>
-                <h6>Vergel 439: Concurso de Ideas y Relatos</h6>
-                <aside class='entry-details'>Publicado el 24 de abril, 2014</aside>
-                <p>Vergel 439 invita a participar en el “Concurso de Ideas y Relatos”, que busca convertir las ruinas del incendio de Valparaíso -particularmente la casa del profesor Luis Álvarez</p>
+                <h6>Exposición Penser en Construisant en la EPFL Lausanne Suiza.</h6>
+                <aside class='entry-details'>Publicado el 19 de Septiembre, 2013</aside>
+                <p>Para construir esta exposición se formó el Taller Valparaíso-Lausanne, con 19 alumnos de pre y post grado pertenecientes a la Escuela de Arquitectura de la EPFL [...]</p>
               </a>
             </div><!-- fin noticia-chica -->
           </div><!-- fin columna -->
@@ -195,11 +211,27 @@ title: Archivo Histórico JVA
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 </div>
                 <div class='prev-imagen sm'>
-                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/MDGF-Mesa-de-Luz-002.jpg'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/TRA tre 88 - Trehuaco Aula Neumatra - 015.jpg'>
                 </div>
-                <h6>Máquina digitalizadora de grandes formatos gana Concurso de Ideas Innovadoras de Funcionarios</h6>
-                <aside class='entry-details'>Publicado el 26 de junio, 2014</aside>
-                <p>Esta semana se dieron a conocer los resultados del Concurso de Ideas Innovadoras de Funcionarios, de la Dirección de Innovación y Emprendimiento de la PUCV, que busca “activar y potenciar la creatividad de los funcionarios administrativos”.</p>
+                <h6>Travesías por américa</h6>
+                <aside class='entry-details'>Publicado el 10 de Septiembre, 2013</aside>
+                <p> Nulla porttitor aliquam sem non pretium. Nam lobortis ligula id nibh molestie, at viverra arcu tempus. Nullam eu justo vel neque euismod egestas sit amet ac odio. In eleifend dui at nisi accumsan vehicula.</p>
+              </a>
+            </div><!-- fin noticia-chica -->
+          </div><!-- fin columna -->
+          <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
+            <div class='noticia-chica'>
+              <a href='#' class='bloque-enlace portada categoria-especifica'>
+                <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+                <div class='seguir-leyendo-cuadro'>
+                  <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
+                </div>
+                <div class='prev-imagen sm'>
+                  <img class='ancho-maximo' src='{{ site.baseurl }}/img/img-archivo/actividad-cat-audio.jpg'>
+                </div>
+                <h6>Libro Torneos</h6>
+                <aside class='entry-details'>Publicado el 10 de Septiembre, 2011</aside>
+                <p> Nulla porttitor aliquam sem non pretium. Nam lobortis ligula id nibh molestie, at viverra arcu tempus. Nullam eu justo vel neque euismod egestas sit amet ac odio. In eleifend dui at nisi accumsan vehicula.</p>
               </a>
             </div><!-- fin noticia-chica -->
           </div><!-- fin columna -->
