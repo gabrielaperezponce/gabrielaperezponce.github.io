@@ -137,16 +137,24 @@
               </div><!-- fin col-lg-12 -->
             </div>
           </div>
-          <div class='fondo-blanco'>
-            <div class='alto-lg'>
-              <div data-ride="carousel" class="carousel slide" id="carousel-example-generic"> 
-                <div class="carousel-inner"> 
-                  <div class="item active imagen-carousel"> <!-- 1er slide -->
-                    <img class='altura-maxima' alt="First slide" src="/img/img-archivo/IMG_3131.JPG"> 
-                  </div>   
-                </div> <!-- fin carousel inner -->
-              </div>  <!-- fin datos-carousel -->
+          <div class='col-lg-12 col-md-12 col-sm-12 col-xs-12'>
+          <div class='fila'>
+            <div class='fondo-blanco'>
+              <div class='wrap'>
+                <div data-ride="carousel" class="carousel slide" id="carousel-example-generic">
+                  <div class="carousel-inner">
+                    <div class="item active">
+                        <div class='noticia grande'>
+                          <div class='noticia-imagen'>
+                            <img class='marco-imagen carousel-historia' alt="First slide" title="solicitudes" src='img/img-archivo/IMG_3131.JPG'>
+                          </div>
+                        </div>
+                    </div>  <!-- fin de item -->
+                  </div>
+                </div> <!-- fin de carousel -->
+              </div>
             </div>
+          </div>
             <div class='fila'>
               <div class='fondo-blanco'>
                 <div class='wrap'>
@@ -182,26 +190,26 @@
                               <li>Restauración de originales, libros, revistas, carpetas, planos, etc.</li>
                               <li> Empastes y encuadernaciones especiales.</li>
                             </ol> 
-                            <a href="#">Descargar documento convenio (pdf)<i class="icn icn-mano-abajo-lig icn-lg"></i></a>
                             <p class='pizarra italica'>Todo el material del Archivo Histórico José Vial Armstrong está protegido con derechos de autor y el uso del material debe atender a las siguientes condiciones:</p>
                             <p>1.- Estará permitido copiar, mostrar y reproducir los archivos incluidos en este proyecto sólo para los trabajos de edición y publicación del proyecto. </p>
                             <p>2.- Estará permitido mostrar y reproducir los archivos incluidos en este proyecto únicamente con fines no comerciales.</p>
                             <p>3.- Estará permitido mostrar y reproducir los archivos incluidos en este proyecto, únicamente como copias exactas de dichos archivos, y no obras derivadas que estén basadas en ella. Los archivos no pueden ser usados en ningún otro proyecto que no esté estrictamente especificado en este convenio.</p>
+                             <a href="#"><i class="icn icn-descargar-lig margen-inferior"></i>Descargar documento convenio (pdf)</a>
                             <h4 class='rojo-claro'>Solicitar material al archivo</h4>             
-                            <div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 margen-superior'>
+                            <div class='col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12 margen-superior'>
                               <form class='md'> 
                                 <div class='grupo obligatorio'>
                                   <label>Nombre</label>
                                   <input type='email' class='relleno-formulario' required/>
-                                </div>
+                                </div></br>
                                 <div class='grupo obligatorio'>
                                   <label>Correo electrónico</label>
                                   <input type='email' class='relleno-formulario' required/>
-                                </div>
+                                </div></br>
                                 <div class='grupo'>
                                   <label>Código del material</label>
                                   <input type='email' class='relleno-formulario' placeholder="ej:  AC fco 98 - Acto de San francisco - 18" required/>
-                                </div>
+                                </div></br>
                                 <div class='grupo'>
                                   <label class='pregunta'>Categoría del contenido</label>
                                   <select>
@@ -212,7 +220,7 @@
                                     <option>Planimetría</option>
                                     <option>Otro</option>
                                   </select>
-                                </div>
+                                </div></br>
                                 <div class='grupo'>
                                   <label>Detalle solicitud</label>
                                   <textarea></textarea>
