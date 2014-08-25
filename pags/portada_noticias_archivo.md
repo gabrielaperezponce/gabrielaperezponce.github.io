@@ -53,11 +53,31 @@ title: Archivo Histórico JVA
                       <p class='fecha-destacado'>jul</p>
                     </div>
                   </div>            
-                  <h4 class='titular-carousel'>Centex y Diseño</h4>
+                  <h4 class='titular-carousel'>Centex y Diseño:</br>Centro de Extensión del Consejo Nacional de la Cultura y las Artes</h4>
                 </div>
                 <div class='recuadro-detalle'>
                   <div class='contenedor-texto'>
                     <p>Este jueves 11 de julio el Centro de Extensión del Consejo de la Cultura CENTEX, reabrió sus puertas con exposiciones y talleres. En Valparaíso se realizó una sencilla ceremonia con más de un centenar de [...]</p>
+                  </div>
+                </div>
+              </div>
+            </div>  <!-- fin de item -->
+            <div class="item">
+              <div class='noticia grande'>
+                <div class='noticia-imagen'>
+                  <img class='marco-imagen' alt="Second slide" title="Noticia Destacada" src='{{ site.baseurl }}/img/img-archivo/lausanne.jpg'>   
+                  <div class='cont-titular fondo-pizarra'>
+                    <div class='linea-vert-fecha fondo-blanco'></div>
+                    <div class='contenedor-fecha'>
+                      <p class='fecha-destacado'> 11 <br/></p>
+                      <p class='fecha-destacado'>jul</p>
+                    </div>
+                  </div>            
+                  <h4 class='titular-carousel'>Exposición Penser en Construisant</br>en la EPFL Lausanne Suiza.</h4>
+                </div>
+                <div class='recuadro-detalle'>
+                  <div class='contenedor-texto'>
+                    <p>Para construir esta exposición se formó el Taller Valparaíso-Lausanne, con 19 alumnos de pre y post grado pertenecientes a la Escuela de Arquitectura de la EPFL [...]</p>
                   </div>
                 </div>
               </div>
