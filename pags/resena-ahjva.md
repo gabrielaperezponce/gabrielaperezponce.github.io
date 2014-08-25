@@ -6,7 +6,7 @@ title: Archivo Histórico JVA
     <div class='fila'>
         <div class='col-lg-12 oculto-xs'>
             <ul id='breadcrumb'>
-              <li><a href='pags/home'><i class="icn icn-hogar-l icn-md"></i></a></li>
+              <li><a href='pags/home'><i class="icn icn-hogar-lig icn-md"></i></a></li>
               <li><a href='pags/sobre_el_archivo'> Sobre el archivo</a></li>
               <li><a href='pags/nuestra_labor'> Nuestra labor</a></li>
             </ul>
@@ -23,28 +23,28 @@ title: Archivo Histórico JVA
                             <div class="item active">
                                 <div class='noticia grande'>
                                     <div class='noticia-imagen'>
-                                        <img class='marco-imagen carousel-historia' alt="First slide" title="Noticia Destacada" src='{{ site.baseurl }}/img/img-archivo/TOR cor 75 - Cortejo- 50.jpg'>
+                                        <img class='marco-imagen carousel-historia' alt="First slide" title="nuestra labor" src='{{ site.baseurl }}/img/img-archivo/TOR cor 75 - Cortejo- 50.jpg'>
                                     </div>
                                 </div>
                             </div>  <!-- fin de item -->
                             <div class="item">
                                 <div class='noticia grande'>
                                     <div class='noticia-imagen'>
-                                        <img class='marco-imagen carousel-historia' alt="Second slide" title="Noticia Destacada" src='{{ site.baseurl }}/img/img-archivo/pizarron20-documentos.jpg'>
+                                        <img class='marco-imagen carousel-historia' alt="Second slide" title="nuestra labor" src='{{ site.baseurl }}/img/img-archivo/pizarron20-documentos.jpg'>
                                     </div>
                                 </div>
                             </div>  <!-- fin de item -->
                             <div class="item">
                                 <div class='noticia grande'>
                                     <div class='noticia-imagen'>
-                                        <img class='marco-imagen carousel-historia' alt="third slide" title="Noticia Destacada" src='{{ site.baseurl }}/img/img-archivo/foto-labor2.jpg'>
+                                        <img class='marco-imagen carousel-historia' alt="third slide" title="nuestra labor" src='{{ site.baseurl }}/img/img-archivo/foto-labor2.jpg'>
                                     </div>
                                 </div>
                             </div>  <!-- fin de item -->
                             <div class="item">
                                 <div class='noticia grande'>
                                     <div class='noticia-imagen'>
-                                      <img class='marco-imagen carousel-historia' alt="Fourth slide" title="Noticia Destacada" src='{{ site.baseurl }}/img/img-archivo/horcones-carousel.jpg'>
+                                      <img class='marco-imagen carousel-historia' alt="Fourth slide" title="nuestra labor" src='{{ site.baseurl }}/img/img-archivo/horcones-carousel.jpg'>
                                     </div>
                                 </div>
                             </div>  <!-- fin de item -->
@@ -97,9 +97,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Licenciado en Diseño de Objetos PUCV 1994. Título de Diseñador Industrial PUCV 1994. Magister en Historia PUCV 2009. Doctor © en Diseño en el Departamento de Artes & Design de la PUC de Rio de Janeiro. Titular de la cátedra de Taller de Amereida para todos los talleres de la Escuela. Jefe del Archivo Histórico José Vial Armstrong.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> jaime.reyes.gil@ead.pucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Jaime_Reyes'>Perfil en Casiopea</a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> jaime.reyes.gil@ead.pucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Jaime_Reyes'>Perfil en Casiopea</a></h6>
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -113,9 +113,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Diseñador Gráfico, Encuadernador, Conservador  y </br>Restaurador del Archivo.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> a.espinoza@ead.pucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Adolfo_Espinoza'>Perfil en Casiopea</a></h6>  
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> a.espinoza@ead.pucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Adolfo_Espinoza'>Perfil en Casiopea</a></h6>  
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -129,9 +129,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Doctor en Arquitectura, docente y Jefe de Investigación e[ad].</br>Actualmente es el fotógrafo de la escuela.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email icn-md gris-oscuro'></i> ivan.ivelic@arquitecturaucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-l icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Iv%C3%A1n_Ivelic'>Perfil en Casiopea </a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> ivan.ivelic@arquitecturaucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Iv%C3%A1n_Ivelic'>Perfil en Casiopea </a></h6>
                                             </div>
                                         </div>
                                     </div>
