@@ -7,7 +7,7 @@ title: Archivo Histórico JVA
         <div data-ride="carousel" class="carousel slide" id="carousel-example-generic"> 
             <div class="carousel-inner"> 
                	<div class="item active imagen-carousel"> <!-- 1er slide -->
-                    <img class='altura-maxima' alt="First slide" src="img/img-archivo/penser-const2.jpg"> 
+                    <img class='altura-maxima' alt="First slide" src="{{ site.baseurl }}/img/img-archivo/penser-const2.jpg"> 
                 </div>   
             </div> <!-- fin carousel inner -->
         </div>  <!-- fin datos-carousel -->
