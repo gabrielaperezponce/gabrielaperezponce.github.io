@@ -97,9 +97,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Licenciado en Diseño de Objetos PUCV 1994. Título de Diseñador Industrial PUCV 1994. Magister en Historia PUCV 2009. Doctor © en Diseño en el Departamento de Artes & Design de la PUC de Rio de Janeiro. Titular de la cátedra de Taller de Amereida para todos los talleres de la Escuela. Jefe del Archivo Histórico José Vial Armstrong.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> jaime.reyes.gil@ead.pucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Jaime_Reyes'>Perfil en Casiopea</a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro texto-cuadro-des'></i> jaime.reyes.gil@ead.pucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro texto-cuadro-des'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro texto-cuadro-des'></i> <a href='http://wiki.ead.pucv.cl/index.php/Jaime_Reyes'>Perfil en Casiopea</a></h6>
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -113,9 +113,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Diseñador Gráfico, Encuadernador, Conservador  y </br>Restaurador del Archivo.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> a.espinoza@ead.pucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Adolfo_Espinoza'>Perfil en Casiopea</a></h6>  
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro texto-cuadro-des'></i> a.espinoza@ead.pucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro texto-cuadro-des'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro texto-cuadro-des'></i> <a href='http://wiki.ead.pucv.cl/index.php/Adolfo_Espinoza'>Perfil en Casiopea</a></h6>  
                                             </div>
                                         </div>
                                         <div class='pagina docente historia'>
@@ -129,9 +129,9 @@ title: Archivo Histórico JVA
                                             <div class='resena-docente historia'>
                                               <p class='pizarra'> Doctor en Arquitectura, docente y Jefe de Investigación e[ad].</br>Actualmente es el fotógrafo de la escuela.</p>
                                               </br>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro'></i> ivan.ivelic@arquitecturaucv.cl</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro'></i>56.32.2274403</h6>
-                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro'></i> <a href='http://wiki.ead.pucv.cl/index.php/Iv%C3%A1n_Ivelic'>Perfil en Casiopea </a></h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-email-lig icn-md gris-oscuro texto-cuadro-des'></i> ivan.ivelic@arquitecturaucv.cl</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-movil-lig icn-md gris-oscuro texto-cuadro-des'></i>56.32.2274403</h6>
+                                              <h6 class="datos-contacto pizarra"> <i class='icn icn-usuario-lig icn-md gris-oscuro texto-cuadro-des'></i> <a href='http://wiki.ead.pucv.cl/index.php/Iv%C3%A1n_Ivelic'>Perfil en Casiopea </a></h6>
                                             </div>
                                         </div>
                                     </div>
