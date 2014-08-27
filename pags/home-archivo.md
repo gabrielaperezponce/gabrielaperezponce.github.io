@@ -49,7 +49,7 @@ title: Archivo Histórico JVA
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 4to slide -->
-          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-archivo/nuevo-album-flickr1.jpg" title="Nuevo álbum en Flickr"> 
+          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-archivo/nuevo-album-flickr2.jpg" title="Nuevo álbum en Flickr"> 
           <div class='pie-de-foto'> 
             <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
           </div> 
