@@ -73,7 +73,7 @@ title: Archivo Histórico JVA
                       </div>
                       <h6>Simposio de la 30ª Bienal de São Paulo – La Inminencia de las Poéticas</h6>
                       <aside class='entry-details'>08 de Noviembre 2012</aside>
-                      <p class='extracto-descriptivo'>El título de la presente nota “Desde Corral a São Paulo” se refiere simplemente al extraordinario hecho de que nuestro Archivo Histórico José Vial se encuentre actualmente atendiendo materias e investigaciones de una profunda y extraña diversidad, en frentes tan distantes y acaso dispares,[...]</p>
+                      <p class='extracto-descriptivo'>El título de la presente nota “Desde Corral a São Paulo” se refiere simplemente al extraordinario hecho de que nuestro Archivo Histórico José Vial se encuentre actualmente atendiendo materias e investigaciones de una profunda y extraña diversidad, en frentes [...]</p>
                       <div class='datos-pub-jva'><i class="icn icn-enlace icn-xs gris-oscuro texto-cuadro-des"></i>Ir a enlace</div> 
                     </a>
                 </div><!-- fin noticia-chica -->
@@ -110,13 +110,10 @@ title: Archivo Histórico JVA
                       <h6>Fiesta Patronal y Exposición del Archivo Histórico en Corral</h6>
                       <aside class='entry-details'>16 de Agosto 2012</aside>
                       <p class='extracto-descriptivo'>En la Parroquia, que estaba especialmente engalanada para la ocasión, nuestro Archivo Histórico José Vial Armstrong realizó la exposición Ofrenda en la fiesta patronal de Nuestra Señora del Tránsito de Corral, que exhibió 50 fotografías históricas [...]</p> 
-                      <div class='datos-pub-jva'><i class="icn icn-enlace icn-xs gris-oscuro texto-cuadro-des"></i>Ir a enlace</div> 
+                      <div class='datos-pub-jva'><i class="icn icn-enlace icn-xs gris-oscuro texto-cuadro-des"></i>Ir a enlace </div> 
                     </a>
                 </div><!-- fin noticia-chica -->
             </div><!-- fin columnas -->
         </div><!-- fin fila -->
-        <div class='centrado extendido'>
-            <a class='btn btn-md btn-transparente-negro cargar-mas'>ver más</a>
-        </div>
     </div><!-- fin wrap -->
 </div><!-- fin fondo-blanco -->
