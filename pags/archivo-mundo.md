@@ -8,7 +8,7 @@ title: Archivo Histórico JVA
     </div>
     <div class='contenedor-sin-relleno'>
         <div class='fila'>
-            <div class='col-lg-12 oculto-xs margen-superior'>
+            <div class='col-lg-12 oculto-xs'>
                	<ul id='breadcrumb'>
                     <li><a href='/pags/home'><i class="icn icn-hogar-lig icn-md"></i></a></li>
                     <li><a href='/pags/portada_noticias'> Publicaciones </a></li>
