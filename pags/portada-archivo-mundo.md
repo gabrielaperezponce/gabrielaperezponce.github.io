@@ -114,6 +114,9 @@ title: Archivo Histórico JVA
                     </a>
                 </div><!-- fin noticia-chica -->
             </div><!-- fin columnas -->
+            <div class='centrado extendido'>
+                <a class='btn btn-md btn-transparente-negro cargar-mas'>ver más</a>
+            </div>
         </div><!-- fin fila -->
     </div><!-- fin wrap -->
 </div><!-- fin fondo-blanco -->
