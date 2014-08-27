@@ -1,45 +1,17 @@
 ---
 layout: indice
-title: Gamma Maquetas
+title: Archivo Histórico José Vial
 ---
-<h1 class='abuela blanco'>Maquetas Navegables</h1>
-<h3 class='abuela blanco'>Portadas</h3>
-<ul>
-  <li><a class='mama' href="pags/home">Home <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/portada_noticias">Portada Noticias <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/categoria_noticias">Portada Noticias por categoría <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/portada_eventos">Portada Eventos <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/informacion_academica">Portada Información de docencia <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/home-archivo">Home archivo histórico <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/portada-catalogo">Cátalogos fotográficos<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/portada_noticias_archivo">Portada Noticias Archivo<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/portada-archivo-palabra">Portada Catálogo Archivo Palabra<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/portada-catalogo-videos">Portada Catálogo Audiovisual<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/portada-ediciones">Portada Ediciones e[ad]<i class="icn icn-visto icn-md"></i></a><li>
-</ul>
-<h3 class='abuela blanco'>Páginas</h3>
-<ul>
-  <li><a class='mama' href="pags/resena_introductora">Reseña introductora<i class="icn icn-visto icn-md burdeo-opuesto"></i></a><li>
-  <li><a class='mama' href="pags/enunciado">Enunciado<i class="icn icn-visto burdeo-opuesto icn-md"></i></a></li>
-  <li><a class='mama' href="pags/enunciado-post">Enunciado + Post<i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/listado-cuerpo-docente">Listado - Cuerpo Docente <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/resultado-busqueda">Resultados de búsqueda <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/meta-busqueda.html">Resultados meta-búsqueda <i class="icn icn-vineta icn-md"></i></a><li>
-  <li><a class='mama' href="pags/categoria-catalogo">Categorías Catálogo fotográfico<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/album-catalogo">Álbum <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/resena-ahjva">Reseña - Nuestra Labor <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/resena-historia">Reseña Historia <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/resena-dependencias">Dependencias del archivo <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/solicitudes_archivo">Solicitudes <i class="icn icn-visto icn-md"></i></a><li>  
-  <li><a class='mama' href="pags/noticia_archivo"> Noticia Archivo <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/categoria-archivo-palabra"> Categoria Taller Amereida - Archivo de la Palabra  <i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/categoria-video"> Categoria Audiovisual<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/categoria-ediciones"> Categoria Ediciones e[ad]<i class="icn icn-visto icn-md"></i></a><li>
-  <li><a class='mama' href="pags/vista-edicion"> Visualización y lectura edición <i class="icn icn-visto icn-md"></i></a><li>
-</ul>
-<h3 class='abuela blanco'>Entradas</h3>
-<ul>
-  <li><a class='mama' href="pags/publicacion">Post: Publicación <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-  <li><a class='mama' href="pags/evento">Post: Evento <i class="icn icn-visto icn-md burdeo-opuesto"></i></a></li>
-
-</ul>
+<div class='fila'>
+  <div class='col-lg-5 col-md-6 col-sm-12 col-xs-12'>
+    <div class='landing'>
+      <h1 class="tit-landing"><span class='sombra-cabecera fino gris-claro'>Mémoire</span></h1>
+      <h4 class="entry-title rojo-opuesto">Archivo Histórico José Vial Armstrong</h4>
+      <p class='gris'>Los archivos son la memoria colectiva e individual de una organización o comunidad. Su tarea principal es preservar esa memoria en el tiempo.</p>
+      <p class='gris'>Dicha similitud alberga este archivo, puesto tiene la misión de: conservar, mantener, valorizar y disponibilizar el patrimonio artístico e intelectual de lo que es y será la Escuela de Arquitectura y Diseño PUCV. </p>
+      <p class='gris'>Este repositorio presenta una propuesta de diseño front-end para el sitio web del Archivo Histórico, trabajada en conjunto a:</p>
+      <p class='rojo'><a href='http://gabrielaperezponce.github.io/pyxis/'><span class='pyxis gruesa rojo-claro'>Pyxis</span> <span class='pyxis fino gris'>framework</span></a> & <a href='http://gabrielaperezponce.github.io/stampa/'><span class='pyxis naranja-opuesto grues'>Stampa</span></a></p>
+      <a class='mama' href="{{ site.baseurl }}/pags/home-archivo"><i class="icn icn-mano-arriba icn-md texto-cuadro-des"></i>Ir al sitio</a>
+    </div>
+  </div>
+</div>
