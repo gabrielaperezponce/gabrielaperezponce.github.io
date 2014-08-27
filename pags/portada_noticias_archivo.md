@@ -149,7 +149,7 @@ title: Archivo Histórico JVA
         <div class='fila'>
           <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-              <a href='/pags/publicacion' class='bloque-enlace portada categoria-especifica'>
+              <a href='{{ site.baseurl }}/pags/noticia_archivo/index.html' class='bloque-enlace portada categoria-especifica'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 <div class='seguir-leyendo-cuadro'>
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -229,7 +229,7 @@ title: Archivo Histórico JVA
           </div><!-- fin columna -->
           <div class='col-lg-4 col-md-6 col-sm-6 col-xs-12'>
             <div class='noticia-chica'>
-              <a href='#' class='bloque-enlace portada categoria-especifica'>
+              <a href='{{ site.baseurl }}/pags/archivo-mundo/index.html' class='bloque-enlace portada categoria-especifica'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
                 <div class='seguir-leyendo-cuadro'>
                   <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
