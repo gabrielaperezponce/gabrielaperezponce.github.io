@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body lang='ES_es' data-spy="scroll" data-target="#menu-fixed">
+
+	    <div class='pag-ancho-total'>
+	    	<div class='sombra fondo-blanco'>
+		    	{% include nav-archivo.html %}
+	    	</div>
+
+				<!-- contenido -->
+				<div class='fondo-blanco'>
+						<div class='col-lg-16 col-md-16'>
+					        {{ content }}
+						</div> 
+					</div>		
+	    	</div>
+	    {% include footer.html%}
+	</body>
+</html>
