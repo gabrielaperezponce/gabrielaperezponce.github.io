@@ -22,6 +22,9 @@ title: Archivo Histórico JVA
                 </div>
             </div>
            	<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-fotografica.png">
+                </div>
                 <i class="icn icn-imagen-lig icn-lg rojo-claro"></i>
                 <h2 id="title_2888" class='rojo-claro'>Colección fotográfica</h2>
                 <p>El Archivo cuenta con alrededor de 140.000 fotografías en diferentes formatos. La colección de negativos y diapositivas originales es guardada en hojas de clasificación de ph neutro y antihongos, en cajas metálicas adecuadas para estas funciones, en sala climatizada de acceso restringido. El material fotográfico y gráfico en general, a medida que se va escaneando, se publica en el Flickr del Archivo, ordenado en colecciones y álbumes temáticos.</p><p> Cada fotografía cuenta con información directa y en metadatos, tales como palabras claves, fechas, georeferencias, etc. Actualmente hay más de 22.000 (veintidos mil) publicadas. Los archivos más antiguos, disponibles hasta ahora, datan de 1947.</br>
@@ -33,6 +36,9 @@ title: Archivo Histórico JVA
                 <a href='https://www.flickr.com/photos/archivo-escuela/sets/72157644273103009/'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>TRA mar 12 - Travesía Marimenuco (Lugar) (14 de 32 fotos)</h6></div></a>
                 <a href='https://www.flickr.com/photos/archivo-escuela/sets/72157644673495461/'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>CAA fco 12 - Acto de San Francisco (18 de 35 fotos)</h6></div></a>
                 <a href='https://www.flickr.com/photos/archivo-escuela/sets/72157644068397007/'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>EX piz 72 - Pizarrones Expo 20 años (32 de 60 fotos)</h6></div></a>
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-audiovisual.png">
+                </div>
                 <i class="icn icn-youtube-lig icn-lg rojo-claro"></i>
                 <h2 id="title_1858" class='rojo-claro'> Colección Audiovisual</h2>
                 <p>Las primeras filmaciones, de 2006 a 2009, fueron realizadas en formatos pequeños de 320 x 240 px o 640 x 480 px, que era lo que permitían las cámaras corrientes y los disposiitivos de almacenaje. Hoy el acopio de bytes ya no es un problema. Las grabaciones de los últimos años, por ejemplo las de 2013 están en full hd. La disponibilización de los archivos de video irá en dos direcciones: presentar al mismo tiempo los registros actuales y los que en el Archivo se vayan digitalizando y catalogando.</p><p>La mayoría de estas cintas, ya sea por el tiempo transcurrido o bien por la modalidad en que fueron grabadas, no siempre muestran una imágen de alta calidad. En el Archivo Histórico las digitalizamos en la máxima resolución que actualmente está disponible; esto es archivos en hd de 1080 dpi. Con los archivos digitales derivados directamente de la digitalización se realizan ediciones especiales para su publicación en línea a través de nuestro canal en Vimeo.</p>
@@ -43,6 +49,9 @@ title: Archivo Histórico JVA
                 <a href='http://vimeo.com/101340745'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>CAV jul 92 - (vhs59) Visita de Guillermo Julian en julio de 1992</h6></div></a>
                 <a href='http://vimeo.com/101340744'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>PH - AP dia 85 - (vhs60) Diarios y poemas</h6></div></a>
                 <a href='http://vimeo.com/101340740'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>AC car 92- (vhs59) Godofredo Iommi, Cartas al Medio</h6></div></a>
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-archivopalabra.png">
+                </div>
                 <i class="icn icn-parlante-lig icn-lg rojo-claro"></i>
                 <h2 id="title_8745" class='rojo-claro'>Colección Archivo de la Palabra</h2>
                 <p>En el catálogo del Archivo de la Palabra se publica el material a través de la plataforma SoundCloud para los audios y en Vimeo para los videos. Aquí se publica el material audiovisual en la medida que se va digitalizando (existe un extenso material audiovisual compuesto cintas de video, cine y audio de distintos soportes).</br>Lo que hemos llamado el archivo de la palabra, con los audios de clases, presentaciones, seminarios, etc. que se pueden oír directamente on line. Los archivos más antiguos, disponibles hasta ahora, datan de 1979. Luego están los videos, que versan sobre actos, travesías y también clases, vida universitaria y actividades académicas. Este espacio se complementa con los registros del Taller de Amereida que publica el material audiovisual de este Taller desde 2006 en adelante.</p>
@@ -53,6 +62,9 @@ title: Archivo Histórico JVA
                 <a href='https://soundcloud.com/archivo-jose-vial-a/sets/1996-actividades-clases-y'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>1996 Actividades / Clases y Asignaturas / Taller de Amereida</h6></div></a>
                 <a href='https://soundcloud.com/archivo-jose-vial-a/cl-ame-96-01-godofredo-iommi'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>CL Ame 96 - 01 Godofredo Iommi</h6></div></a>
                 <a href='https://soundcloud.com/archivo-jose-vial-a/cl-dis-08-licenciatura-diseno-arturo-mena-parte-1'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>CL Dis 08 - Licenciatura Diseño - Arturo Mena Parte 1</h6></div></a>
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-documentos.png">
+                </div>
                 <i class="icn icn-documento-lig icn-lg rojo-claro"></i>
                 <h2 id="title_8048" class='rojo-claro'>Colección Documentos</h2>
                 <p>Está constituida por cientos (miles) de cartas, artículos, escritos, fichas, legajos, actas, etc. que la Escuela conserva. Las más antiguas, hasta ahora encontradas, datan de 1937, es decir aún antes de la refundación. Aquí se encuentran las fichas de prácticamente todos los alumnos que alguna vez pasaron por la Escuela. Están las cartas oficiales de directores, decanos, profesores y autoridades y un largo etc.
@@ -66,9 +78,15 @@ title: Archivo Histórico JVA
                 <a href='http://wiki.ead.pucv.cl/index.php/Conversaci%C3%B3n_con_Mies_van_der_Rohe'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>Conversación con Mies van der Rohe</h6></div></a>
                 <a href='http://wiki.ead.pucv.cl/index.php/Voto_al_Senado_Acad%C3%A9mico,_de_1973'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>Voto al Senado Académico, de 1973</h6></div></a>
                 <a href='http://wiki.ead.pucv.cl/index.php/Documentos_del_proyecto_Avenida_del_Mar'><div class='cont-descripcion-album'><div class='listado-album'><i class='icn icn-nav-der icn-sm rojo-claro'></i></div><h6 class='subtitulo rojo-claro'>Documentos del proyecto Avenida del Mar</h6></div></a>
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-planimetrias.png">
+                </div>
                 <i class="icn icn-mapa-lig icn-lg rojo-claro"></i>
                 <h2 id="title_1239" class='rojo-claro'>Colección Planimetrías</h2>
                 <p>La colección de planos originales de estudio de proyectos y catastros; originalmente guardados en tubos plásticos, con un promedio de 10 planos por tubo, están -desde el año 2003- entubados en PVC con ventilación y generación del depósito de tubos. Se ha seleccionado el material más importante a partir de aquellos tubos con mayor consulta en los últimos años. Esto corresponde a un 60% del total de la colección. Estarán en carpetas de cartón con ph neutro, que permitan el guardado de los planos estirados y el fácil acceso al material para su consulta, copia de plano, fotografía o digitalización. Son 7.608 láminas en papel.</p>
+                <div class="prev-imagen">
+                    <img src="{{ site.baseurl }}/img/img-archivo/col-fundadores.png">   
+                </div>
                 <i class="icn icn-cruz-sur-lig icn-lg rojo-claro"></i>
                 <h2 id="title_1212" class='rojo-claro'>Colección Fundadores</h2>
                 <p>El Archivo resguarda todo el material académico y artístico producido por los profesores fundadores de nuestra Escuela, desde 1952. Está compuesta por piezas individuales y series. Es así como, por ejemplo, a la muerte del arquitecto y profesor Fabio Cruz Prieto, su familia entregó al Archivo todos los cuadernos de apuntes, dibujos, proyectos y reflexiones, que el profesor Cruz tuvo durante casi 50 años. Este material constituye la Serie Fabio Cruz. Así mismo, el Archivo ya resguarda el material producido por el profesor Miguel Eyquem y una parte importante de la producción del arquitecto y profesor Alberto Cruz C. También los cuadernos de viaje de José Vial. </p>
