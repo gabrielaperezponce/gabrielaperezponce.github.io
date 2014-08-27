@@ -19,7 +19,7 @@ title: Archivo Histórico JVA
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Exposición en EPFL Lausanne</h1></a>
+              <a href='{{ site.baseurl }}/pags/archivo-mundo/index.html'><h1>Exposición en EPFL Lausanne</h1></a>
               <p>El Taller Valparaíso-Lausanne, realizó con ayuda de este archivo, una exposición en la EPFL, la que fue una obra en cuatro trazos: un Umbral construido en la entrada del lugar, el montaje de 256 láminas en la Sala Archizoom las que expondrán la realidad de obras de la Ciudad Abierta y las Travesías por el continente americano, la escultura Extensión Americana IV realizada in situ por el Taller y la inauguración de la exposición.</p>
             </div>
           </div> 
@@ -31,7 +31,7 @@ title: Archivo Histórico JVA
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Noticias</h1></a>
+              <a href='{{ site.baseurl }}/pags/noticia-archivo/index.html'><h1>Noticias</h1></a>
               <p>Esta semana se dieron a conocer los resultados del Concurso de Ideas Innovadoras de Funcionarios, de la Dirección de Innovación y Emprendimiento de la PUCV, que busca “activar y potenciar la creatividad de los funcionarios administrativos”. Encabezando la lista de los proyectos ganadores se encuentra “Máquina digitalizadora de grandes formatos”, de Adolfo Espinoza Bernal, Encargado Mayor del Archivo Histórico José Vial Armstrong, de la Escuela de Arquitectura y Diseño PUCV.</p> 
             </div>
           </div> 
@@ -43,19 +43,19 @@ title: Archivo Histórico JVA
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Últimos documentos</h1></a>
+              <a href='{{ site.baseurl }}/pags/vista-edicion/index.html'><h1>Últimos documentos</h1></a>
               <p>"Hay juegos que parecieran haber estado siempre. Se jugo en los relatos bíblicos como también en las epopeyas homéricas –a veces con profunda seriedad. Jugando, dice Platón, se dirimían los destinos de la ciudad. Así ocurre con la gran mayoría de los juegos-dados, cartas, proezas y desafíos establecidos –pero Manuel Casanueva es un [...]"</p> <span class='derecha'>Libro Torneos</span> 
             </div>
           </div> 
         </div>
         <div class="item imagen-carousel"> <!-- 4to slide -->
-          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-carousel/carousel-pub-flickr.jpg" title="Nuevo álbum en Flickr"> 
+          <img class='altura-maxima' alt="Fourth slide" src="{{ site.baseurl }}/img/img-archivo/nuevo-album-flickr1.jpg" title="Nuevo álbum en Flickr"> 
           <div class='pie-de-foto'> 
             <p class='centrado'><i class="icn icn-etiqueta-lig icn-lg"></i>  EX ron 14 - Ronda Talleres 1er trimestre - 006</p> 
           </div> 
           <div class='wrap-carousel'> 
             <div class='col-lg-3 oculto-sm oculto-xs cita-carousel'> 
-              <a href='#'><h1>Nuevo álbum en Flickr</h1></a>
+              <a href='https://www.flickr.com/photos/archivo-escuela/sets/72157644811804787/'><h1>Nuevo álbum en Flickr</h1></a>
               <p>Esta disponible a través de nuestra cuenta en Flickr un nuevo álbum fotográfico, que tiene por temática el período de Rondas de talleres 2014 , primer trimestre.</p>
             </div>
           </div> 
@@ -273,7 +273,7 @@ title: Archivo Histórico JVA
       <div class='fila'>
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
           <div class='noticia-chica'>
-            <a href='{{ site.baseurl }}/pags/noticia_archivo' class='bloque-enlace portada categoria-especifica'>
+            <a href='{{ site.baseurl }}/pags/noticia_archivo/index.html' class='bloque-enlace portada categoria-especifica'>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <div class='seguir-leyendo-cuadro'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -289,7 +289,7 @@ title: Archivo Histórico JVA
         </div><!-- fin columna -->
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
           <div class='noticia-chica'>
-            <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <a href='{{ site.baseurl }}/pags/portada_noticias_archivo/index.html' class='bloque-enlace portada categoria-especifica'>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <div class='seguir-leyendo-cuadro'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -305,7 +305,7 @@ title: Archivo Histórico JVA
         </div><!-- fin columna -->
         <div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
           <div class='noticia-chica'>
-            <a href='#' class='bloque-enlace portada categoria-especifica'>
+            <a href='{{ site.baseurl }}/pags/boletines-archivo/index.html' class='bloque-enlace portada categoria-especifica'>
               <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
               <div class='seguir-leyendo-cuadro'>
                 <p class='seguir-leyendo'>Seguir leyendo</p><p class='seguir-leyendo ver-mas'>+</p>
@@ -327,28 +327,28 @@ title: Archivo Histórico JVA
               <span class='gris-oscuro datos-pub-jva'>02 de enero, 2014</span>
             </div> 
             <div class='titulo-noticia-prev'>
-              <a href='#'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
+              <a href='{{ site.baseurl }}/pags/portada_noticias_archivo/index.html'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
             </div>
             <div class='cont-icono-fecha'>
               <i class='icn icn-noticias icn-md gris'></i>
               <span class="gris-oscuro datos-pub-jva">19 de abril, 2013</span>
             </div>
             <div class='titulo-noticia-prev'>
-              <a href='#'><p class='subtitulo rojo-claro margen-lista'>Exposición Reconstrucción de la Parroquia de Corral 1960 – 2012</p></a>
+              <a href='{{ site.baseurl }}/pags/portada_noticias_archivo/index.html'><p class='subtitulo rojo-claro margen-lista'>Exposición Reconstrucción de la Parroquia de Corral 1960 – 2012</p></a>
             </div> 
             <div class='cont-icono-fecha'>
               <i class='icn icn-noticias icn-md gris'></i>
               <span class="gris-oscuro datos-pub-jva">22 de noviembre, 2012</span>
             </div>
             <div class='titulo-noticia-prev'>
-              <a href='#'><p class='subtitulo rojo-claro margen-lista'>Reflexiones sobre Valparaíso</p></a>
+              <a href='{{ site.baseurl }}/pags/portada_noticias_archivo/index.html'><p class='subtitulo rojo-claro margen-lista'>Reflexiones sobre Valparaíso</p></a>
             </div> 
             <div class='cont-icono-fecha'>
               <i class='icn icn-noticias icn-md gris'></i>
               <span class='gris-oscuro datos-pub-jva'>02 de enero, 2014</span>
             </div> 
             <div class='titulo-noticia-prev'>
-              <a href='#'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
+              <a href='{{ site.baseurl }}/pags/portada_noticias_archivo/index.html'><p class='subtitulo rojo-claro'>Dos proyectos asociados a la e[ad] seleccionados para los Fondos de Cultura 2014</p></a>
             </div>              
           </div>
         </div>  
